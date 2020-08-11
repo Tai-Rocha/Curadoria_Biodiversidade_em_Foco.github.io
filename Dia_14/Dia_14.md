@@ -1,3 +1,7 @@
+##### Title: "Dia 14"
+##### author: "Tainá Rocha"
+##### date: "11/08/2020"
+##### output: html_document
 #### Twiite 14.1 Contextualização 
 
 ###### Pra viver no teu tempo é que eu faço viagens no espaço, já dizia Vanzollini,que além das belas canções, nos deixou deixou valiosas contribuições sobre a biodiversidade. Ele dizia que era fundamental estudar as distribuiçoes das populações de uma espécies no tempo e espaço.
