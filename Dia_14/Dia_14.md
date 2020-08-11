@@ -1,13 +1,14 @@
 ##### Title: "Dia 14"
-##### author: "Tainá Rocha"
-##### date: "11/08/2020"
+##### Author: "Tainá Rocha"
 ##### output: html_document
+
+
 #### Twiite 14.1 Contextualização 
 
 ###### Pra viver no teu tempo é que eu faço viagens no espaço, já dizia Vanzollini,que ###### além das belas canções, nos deixou deixou valiosas contribuições sobre a ###### ###### biodiversidade. Ele dizia que era fundamental estudar as distribuiçoes das ###### ###### populações de uma espécies no tempo e espaço.
 
 
-![](Dia_14/images/Vanzollini_LuciaCarvalho.png)
+![Vanzollini_LuciaCarvalho](https://user-images.githubusercontent.com/11633554/89956305-49417900-dc0b-11ea-96d7-635e56194581.png)
 
 
 
@@ -22,4 +23,5 @@
 ###### Mapa adaptado de Haffer 1978, mostrando os refúgios (hachuras pretas)
 
 
+![Haffer_1978](https://user-images.githubusercontent.com/11633554/89956386-78f08100-dc0b-11ea-90cb-44faf5596593.png)
 
