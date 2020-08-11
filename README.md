@@ -9,4 +9,4 @@
       [ ] Bancos de dados Molecuares (GeneBank and WGS)
 
 
-![](Dia_14/images/Vanzollini_LuciaCarvalho.png)
+
