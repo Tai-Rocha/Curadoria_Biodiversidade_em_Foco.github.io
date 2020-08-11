@@ -5,5 +5,5 @@
 ###### Dia 14 : "Pra viver no teu tempo é que eu faço viagens no espaço" (Paulo Vanzollini)                         
       [ ] Tempo e espaço  
       [ ] Biogeografia e Hisória Evolutiva das Aves Neotropicais
-      [ ] Bases de dados de ocorrência de aves WikiAves, Ebird, Xeno-canto
-      [ ] Bancos de dados Molecuare (GeneBank, )
+      [ ] Bases de dados de ocorrência de aves WikiAves, ebird, xeno-canto
+      [ ] Bancos de dados Molecuares (GeneBank and WGS)

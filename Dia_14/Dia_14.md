@@ -1,30 +1,17 @@
----
-title: "Dia_14"
-author: "Tainá Rocha"
-date: "11/08/2020"
-output: html_document
----
+#### Twiite 14.1 Contextualização 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+###### Pra viver no teu tempo é que eu faço viagens no espaço, já dizia Vanzollini,que além das belas canções, nos deixou deixou valiosas contribuições sobre a biodiversidade. Ele dizia que era fundamental estudar as distribuiçoes das populações de uma espécies no tempo e espaço. 
 
-## R Markdown
+![](Dia_14/Vanzollini_LuciaCarvalho.png)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+###### Twiite 14.2 Contextualização e História 
 
-```{r cars}
-summary(cars)
-```
+A hipótese dos refúgios foi uma das contribuições de Vanzolini, embora muitos só mencionem Jürgen Haffer. Testei essa hiótese ainda na inciação científca, além de outras, que pudessem esclarecer sobre a alta diversidade neotropical e seus padrões de distribuição.   
 
-## Including Plots
+![](Dia_14/Haffer_1978.png)
 
-You can also embed plots, for example:
+###### Mapa adaptado de Haffer 1978, mostrando os refúgios (hachuras pretas)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
