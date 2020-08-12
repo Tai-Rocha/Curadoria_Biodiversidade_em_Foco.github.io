@@ -3,7 +3,7 @@
 ##### Tweet 19.1. 
 ###### Desde o começo dos anos 2000 surgiram várias interfaces gráficas para gerar modelos de nichos como #DesktopGar, #OpenModeler, #ModEco #Maxent
 
-###### Usar os Gifs desktop  e interface do tweeter
+###### Usar os Gifs desktop  e interface do Twitter
  
 
 ##### Tweet 19.2 Open science/linguagem R/ Ecologia (Tweet estendido)
