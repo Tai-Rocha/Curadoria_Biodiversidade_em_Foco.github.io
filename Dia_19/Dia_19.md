@@ -23,23 +23,25 @@
 ![modleR](https://user-images.githubusercontent.com/11633554/90061246-4357a080-dcbc-11ea-9142-a7577b183492.png)
 
 
-#### Tweet 19.5 O modleR- Integrantes
+#### Tweet 19.5 modleR: Integrantes
 
 ##### O modleR foi pensado pela pesquisadora @ Andrea-Sanchés e @Marinez Siqueira que integram o Núcleo de Computação Cinetífica e Geoprocessamento do @J_Botanico_RJ, onde faço meu pós-doc. Também participaram desta inciativa @SaraMortara @DiogoRocha @GuilermeGall @FelipeSodré.  
+
+![modleR_team](https://user-images.githubusercontent.com/11633554/90061768-ffb16680-dcbc-11ea-84cd-160945753c62.png)
 
 
 
 #### Tweet 19.6 os MNEs
 ##### Fazer um modelo de nicho ecológico parece simples,pois precisamos de 2 tipos de dados que estão a nossa disposição: dados de ocorrênia de espécies  e dados ambientais. Já fizemos aqui um tour por várias dessas bases. 
 
-###### Figurinhas 
+###### Gifs lá do Tweeter, ou uma enquete perguntando quando a bases de dados que mais usam, ou gostaram... ou algo assim...
 
 
 #### Tweet 19.7 Nem tão simples assim (Twiiter Estendido)
 
 ###### A verdade é que existem várias etapas e importantes tomadas de decisão no processo de execução de um MNE. O modleR tem um fluxo de trabalho construido com base nessas etapas e tomadas decisão para se construir um MNE. Mais que isso, foi desenhado de forma a garantir a reprodutbilidade do experimento.
 
-###### Figura do Fluxo
+
 
 #### Tweet 19.7.1
 ###### Pra que ficou interessado, todo código do pacote e os detalhes de fluxo de trabalho estão disponíveis no @Github . 
