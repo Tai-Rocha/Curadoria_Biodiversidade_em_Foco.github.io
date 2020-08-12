@@ -8,8 +8,13 @@
       [ ] Biodiversidade nos neotrópicos (1 twees)
       [ ] Biogeografia, história evolutiva e a biologia molecular como ferramenta de pesquisa (2 tweets)
       
-###### Dia 15: "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi).
+###### Dia 19: "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi).
       
-      [ ] Novas possibilidades para analisar a biodiversidade (2 tweets)  
-      [ ] teiteitei (2 tweets)
+      [ ] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
+      [ ] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
+      [ ] modleR pckg
+      [ ] modleR integrantes
+      [ ] Simples assim (Dados georreferencias + dados ambinetais)
+      [ ] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
+      
 
