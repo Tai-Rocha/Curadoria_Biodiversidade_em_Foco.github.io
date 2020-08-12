@@ -37,7 +37,7 @@
 ###### Gifs lá do Tweeter, ou uma enquete perguntando quando a bases de dados que mais usam, ou gostaram... ou algo assim...
 
 
-#### Tweet 19.7 Nem tão simples assim (Twiiter Estendido)
+#### Tweet 19.7 Nem tão simples assim (Tweet Estendido)
 
 ###### A verdade é que existem várias etapas e importantes tomadas de decisão no processo de execução de um MNE. O modleR tem um fluxo de trabalho construido com base nessas etapas e tomadas decisão para se construir um MNE. Mais que isso, foi desenhado de forma a garantir a reprodutbilidade do experimento.
 
