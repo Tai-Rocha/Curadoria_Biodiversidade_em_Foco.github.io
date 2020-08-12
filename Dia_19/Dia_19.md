@@ -32,8 +32,7 @@
 ![modleR_team](https://user-images.githubusercontent.com/11633554/90061768-ffb16680-dcbc-11ea-84cd-160945753c62.png)
 
 
-
-#### Tweet MNEs , simples assim
+#### Tweet 19.6 MNEs , simples assim
 ###### Fazer um modelo de nicho ecológico parece simples,pois precisamos de 2 tipos de dados que estão a nossa disposição: dados de ocorrência de espécies e dados ambientais. Já fizemos aqui um tour por várias dessas bases.
 
 ###### Gifs do Twitter, ou uma enquete perguntando quando a bases de dados que mais usam, ou gostaram... ou algo assim...
