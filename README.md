@@ -2,11 +2,14 @@
 ### Curadora: Tainá Rocha
 #### Tema da Semana: ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e no tempo. 
 
-###### Dia 14 : "Pra viver no teu tempo é que eu faço viagens no espaço" (Paulo Vanzollini)                         
-      [ ] Tempo e espaço  
-      [ ] Biogeografia e Hisória Evolutiva das Aves Neotropicais
-      [ ] Bases de dados de ocorrência de aves WikiAves, ebird, xeno-canto
-      [ ] Bancos de dados Molecuares (GeneBank and WGS)
+###### Dia 14 : "Pra viver no teu tempo é que eu faço viagens no espaço" (Canção Tempo e Espaço, de Paulo Vanzollini) 
 
-
+      [ ] Tempo e espaço Contextualização (1 tweet)  
+      [ ] Biodiversidade nos neotrópicos (1 twees)
+      [ ] Biogeografia, história evolutiva e a biologia molecular como ferramenta de pesquisa (2 tweets)
+      
+###### Dia 15: "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi).
+      
+      [ ] Novas possibilidades para analisar a biodiversidade (2 tweets)  
+      [ ] teiteitei (2 tweets)
 
