@@ -13,8 +13,8 @@
 
 
 ##### Tweet 19.2.1  R
-###### Linguagem de programação? Nunca ouviu falar? Será? Todo aplicativo é construido através de alguma linguagem de programação e seus códigos! Alguns desses todos conhecemos @intagram, @whatsap @twiiter e muitos outros. Se liguem nesse tweet das liguagens queridinhas dos twitteiro:
-###### Retwiitar tweet de @victorianoi
+###### Linguagem de programação? Nunca ouviu falar? Será? Todo aplicativo é construido através de alguma linguagem de programação e seus códigos! Alguns desses todos conhecemos @instagram, @whatsApp @twiiter e muitos outros. Se liguem nesse tweet das liguagens queridinhas dos twitteiro:
+###### Retweet de @victorianoi
 
 
 ##### Tweet 19.3 o modleR
@@ -25,14 +25,14 @@
 
 #### Tweet 19.5 modleR: Integrantes
 
-##### O modleR foi pensado pela pesquisadora @ Andrea-Sanchés e @Marinez Siqueira que integram o Núcleo de Computação Cinetífica e Geoprocessamento do @J_Botanico_RJ, onde faço meu pós-doc. Também participaram desta inciativa @SaraMortara @DiogoRocha @GuilermeGall @FelipeSodré.  
+###### O modleR foi pensado pela pesquisadora @ Andrea-Sanchés e @Marinez Siqueira que integram o Núcleo de Computação Cinetífica e Geoprocessamento do @J_Botanico_RJ, onde faço meu pós-doc. Também participaram desta inciativa @SaraMortara @DiogoRocha @GuilermeGall @FelipeSodré.  
 
 ![modleR_team](https://user-images.githubusercontent.com/11633554/90061768-ffb16680-dcbc-11ea-84cd-160945753c62.png)
 
 
 
 #### Tweet 19.6 os MNEs
-##### Fazer um modelo de nicho ecológico parece simples,pois precisamos de 2 tipos de dados que estão a nossa disposição: dados de ocorrênia de espécies  e dados ambientais. Já fizemos aqui um tour por várias dessas bases. 
+###### Fazer um modelo de nicho ecológico parece simples,pois precisamos de 2 tipos de dados que estão a nossa disposição: dados de ocorrênia de espécies  e dados ambientais. Já fizemos aqui um tour por várias dessas bases. 
 
 ###### Gifs lá do Tweeter, ou uma enquete perguntando quando a bases de dados que mais usam, ou gostaram... ou algo assim...
 
