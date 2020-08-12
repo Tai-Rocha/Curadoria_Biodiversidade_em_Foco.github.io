@@ -6,7 +6,7 @@
 ###### Usar os Gifs desktop  e interface do tweeter
  
 
-##### Tweet 19.2 Open science/linguagem R/ Ecologia (Tweet estendido)
+##### Tweet 19.2 Open science/linguagem R/ Ecologia 
 ###### Com o movimento crscente da ciência aberta, as liguagens de programação se tornaram execelentes aliadas desta nova Filosofia. Na Ecologia, po exemplo, a Linguagem R  se tornou uma das mais usadas. Assim tivemos um boom de pacotes de R que geram os modelos de  nichos e sdms.    
 
 ![R](https://user-images.githubusercontent.com/11633554/90060360-fd4e0d00-dcba-11ea-9310-524fe6f78c95.png)
