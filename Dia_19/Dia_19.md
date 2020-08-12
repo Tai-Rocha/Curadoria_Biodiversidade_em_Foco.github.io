@@ -41,6 +41,7 @@
 
 ###### A verdade é que existem várias etapas e importantes tomadas de decisão no processo de execução de um MNE. O modleR tem um fluxo de trabalho construido com base nessas etapas e tomadas decisão para se construir um MNE. Mais que isso, foi desenhado de forma a garantir a reprodutbilidade do experimento.
 
+![fig01_workflow](https://user-images.githubusercontent.com/11633554/90062024-65055780-dcbd-11ea-9a06-14bf3898bd4f.png)
 
 
 #### Tweet 19.7.1
@@ -48,4 +49,6 @@
 
 https://github.com/Model-R/modleR/
 
-## Viva a ciência aberta !! Figurinhas
+## Viva a ciência aberta !! 
+
+###### Figurinhas ou Gifs do Tweeter
