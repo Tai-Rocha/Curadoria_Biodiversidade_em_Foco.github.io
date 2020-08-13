@@ -30,7 +30,7 @@
     - [x] Ultilidade e importâcia dessas bases (1 tweet) 
 
 
-19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)* Este é o dia 19 e não o 16. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
+19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)* Este é o dia 19 e não o 17. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
       
     - [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
     - [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
