@@ -19,14 +19,14 @@
 ###### https://www.wikiaves.com.br/1335230
 
 
-#### Tweet 15.4 Novas possibilidades para analisar a biodiversidade
+#### Tweet 15.4 Outras possibilidades para analisar a biodiversidade
 
 ###### Foi também durante o doutorado no @museugoeldi que conheci novas ferramentas e métodos de analisar a biodiversidade, além da molecular. Conhecia superficialmente programas como @arcGis, @qgis, @divagis e com pouca habilidade nessas interfaces. #SIG #qgis
 
 
 ###### Enquente ArcGis x Qgis
 
-#### Tweet 15.2 O Antes e o depois
+#### Tweet 15.5 O Antes e o depois
 
 ##### O mais legal de conhecer melhor esses programas foi começar a explorar bases de dados para usar nessas interfaces. Comecei buscando mapas de ocorrência das espécies de aves que eu estava estudando e logo estava no site da @IUCNRedList baixando o shapefiles da espécies. Aproveita pra conhecer também!! #maps #shapes
 
