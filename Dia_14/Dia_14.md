@@ -50,13 +50,8 @@
 ###### https://www.researchgate.net/publication/47755601_Amazonia_Through_Time_Andean_Uplift_Climate_Change_Landscape_Evolution_and_Biodiversity
 
 
-#### Tweet 14.6 Pq estudar o passado é imporante?
+#### Tweet 14.6 Por que estudar o passado é imporante?
 
-#### Entender o histórico de grupos taxonômicos,sua distribuição no tempo/espaço,são importantes,por exemplo, para ações conservação.Essa hisótia pode nos apontar as localidades que merecem esforços conservacionistas. Entender as história faz toda diferença,em vários sentidos #FicaaDica #PovoBrasileiro
+##### Entender o histórico de grupos taxonômicos,sua distribuição no tempo/espaço,são importantes,por exemplo, para ações conservação.Essa hisótia pode nos apontar as localidades que merecem esforços conservacionistas. Entender as história faz toda diferença,em vários sentidos #FicaaDica #PovoBrasileiro
 
-
-
-
-#### Tweet 14.7 Novos ares
-######  Interesse por investigar de um ponto de vista ecológico, ambiental, outra ferramenta.... que caminhos tomei??? amanhã eu conto pra vcs 
 
