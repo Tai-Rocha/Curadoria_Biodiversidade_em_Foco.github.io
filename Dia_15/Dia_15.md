@@ -1,4 +1,4 @@
-###### Dia 15: "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi).
+###### "Todos os nossos ontem" (Ginzburg, N. Todos os nossos ontem 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
 
 #### Tweet 15.1 Novas possibilidades para analisar a biodiversidade
 
