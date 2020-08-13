@@ -5,7 +5,7 @@
 
 ## Steps for niche analysis :
 
-14. Temas dos dia:
+14. "Pra viver no teu tempo é que eu faço viagens no espaço" (Canção Tempo e Espaço, de Paulo Vanzollini) :
     
     - [x] Tempo e espaço Contextualização (2 tweet)  
     - [x] Biodiversidade nos neotrópicos, as aves neotropicais (1 twees)
@@ -14,7 +14,7 @@
     - [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
 
 
-###### Dia 19: "Ambos habían sido modernizados y no tenían nada de tenebrosos." (Márquez,Gabirel. 'Espantos de agosto'. Doce cuentos peregrinos 1992)
+19. "Ambos habían sido modernizados y no tenían nada de tenebrosos." (Márquez,Gabirel. 'Espantos de agosto'. Doce cuentos peregrinos 1992):
       
       [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
       [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
