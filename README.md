@@ -15,11 +15,11 @@
       
 ###### Dia 19: "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi).
       
-      [ ] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
-      [ ] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
-      [ ] modleR pckg
-      [ ] modleR integrantes
-      [ ] Simples assim (Dados georreferencias + dados ambinetais)
-      [ ] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
+      [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
+      [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
+      [x] modleR pckg
+      [x] modleR integrantes
+      [x] Simples assim (Dados georreferencias + dados ambinetais)
+      [x] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
       
 
