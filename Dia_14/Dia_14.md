@@ -57,7 +57,7 @@
 ###### Gifs
 
 #### Tweet 14.7 E por quê conservação é importante ?
-###### Esse papo de conservção não te convence? O @ISS nos mostrou em recente relatório, que proteger áreas adicionais levariam a uma média de US $ 250 bilhões em aumento da produção econômica anualmente. Será que o @CiroGomes sabe disso? :laughing: 
+###### Esse papo de conservção não te convence? O @ISS nos mostrou, em recente relatório, que proteger áreas adicionais levariam a uma média de US $ 250 bilhões em aumento da produção econômica anual!!! Será que o @CiroGomes sabe disso? :laughing: 
 
 ###### Gif Ciro Gomes falando "Bilhão"
 
