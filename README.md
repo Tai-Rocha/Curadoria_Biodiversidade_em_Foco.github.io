@@ -7,9 +7,9 @@
 
     - [x] Tempo e espaço Contextualização (2 tweet)  
      - [x] Biodiversidade nos neotrópicos, as aves neotropicais (1 twees)
-      [x] Biogeografia, história evolutiva (1 tweets)
-      [x] Filogeografia (2 tweets, Rocha et al 2015)
-      [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
+     - [x] Biogeografia, história evolutiva (1 tweets)
+     - [x] Filogeografia (2 tweets, Rocha et al 2015)
+     - [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
       
       
       
