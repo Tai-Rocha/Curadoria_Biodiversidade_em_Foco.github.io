@@ -7,7 +7,7 @@
 
 ###### Enquente ArcGis x Qgis
 
-#### Tweet 15.2 Bancos de dados
+#### Tweet 15.2 O Antes e o depois
 
 ##### O mais legal de conhecer melhor esses programas foi começar a explorar bases de dados para usar nessas interfaces. Comecei buscando mapas de ocorrência das espécies de aves que eu estava estudando e logo estava no site da @IUCNRedList baixando o shapefiles da espécies. Aproveita pra conhecer também!! #maps #shapes
 
@@ -20,11 +20,16 @@
 ![ante_e_depois](https://user-images.githubusercontent.com/11633554/90156982-891b7400-dd63-11ea-8f39-4ba63ae4df61.png)
 
 
-#### Tweet 15.4 Bases de shapefiles
-##### Existem muitas bases interessantes que disponibilizam dados em formato vetorial (os shapefiles), como esses da @IUCNredlist.
+#### Tweet 15.4 Bons Tempos de passarinhada
+###### Essa era a gelerinha que acorda 4 da matina pra ir passarinha pra postar foto no wiki aves 
 
-@SiB_Br, MMA, INDI, ANA, IBGE... etc...
+#### Tweet 15.5 Beija-flor
+###### Meu melhor registro foi de um beija-flor.... bons tempo!
 
+###### https://www.wikiaves.com.br/1335230
 
+#### Tweet 15.5 Flona de Caxiuanã
+###### o Melhor campo amazônico da vida
 
+###### Foto caxiuanã
 
