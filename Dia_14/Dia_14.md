@@ -17,7 +17,7 @@
 ###### Mapa adaptado de Haffer 1978, mostrando os refúgios (hachuras pretas)
 
 #### Tweet 14.3 Aves neotropicais
-###### Aves neotropicais são execelentes espécies-modelos para testar hipóteses de diversifiação, geralmente são grupos megadiversos e com amplas distribuição nessa região. Deixo aqui um registro fotográfico que fiz do arapaçu-de-bico-branco
+###### Aves neotropicais são execelentes espécies-modelos para testar hipóteses de diversifiação, geralmente são grupos megadiversos e com ampla distribuição nessa região. Deixo aqui um registro fotográfico que fiz do arapaçu-de-bico-branco
 
 ###### Wiki Aves - A Enciclopédia das Aves do Brasil https://www.wikiaves.com.br/1328292#.XzSRzDbQjNQ.twitter 
 
