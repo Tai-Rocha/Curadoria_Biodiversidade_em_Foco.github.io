@@ -13,7 +13,7 @@
 
 ###### Gifs maps shapes
 
-#### Tweet 15.3 A propósito....
+#### Tweet 15.3 IUCN
 
 ##### Depois que descobri que arapaçu que estudei na verdade eram duas espçies diferentes, os mapas em shapefile, da área de ocorrência para este grupo mudaram na IUCN, veja o antese depois. E também não deixem  de ver os incríveis registros fotográficos dos meu colegas @CaioBrito e @AdrianoMaciel 
 
