@@ -1,8 +1,8 @@
 ### Este é o repositório da curadoria dos dias 14 a 20 de Agosto de 2020 para Biodiversidade em Foco @biodiversidademfoco
 ### Curadora: Tainá Rocha
-#### Tema da Semana: ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e no tempo. 
+#### Tema da Semana: ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e tempo. 
 #### Em construção
-
+##### Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os demais dias trazem trechos ou títtulo dos livros do clube TAG Experiências Literárias. Minha singela homenagem ao zoólogo e compistor, ao clube TAG e seus associados   :rose:
 
 14. "Pra viver no teu tempo é que eu faço viagens no espaço" (Canção Tempo e Espaço, de Paulo Vanzollini) :
     
@@ -16,7 +16,7 @@
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
       
     - [x] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
-    - [x] Bons Tempos de passarinhada goeldianas (1 tweet)
+    - [x] Passarinhada goeldianas (1 tweet)
     - [x] O bico do beija-flor beija a flor  
     - [x] Outras possibilidades (1 tweet)
     - [x] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
@@ -45,6 +45,8 @@
       
     - [ ] Dado,Informação,Conhecimento
     - [ ] Usando os bancos de dados
+    
+    
     - [ ] Modelos de Nichos e SDMS   
     - [ ] Trabalho da Science história evolutiva  (1 tweet)
     - [ ] Trabalho Ecography mudanças climátcas e resgate evoltuivo      
