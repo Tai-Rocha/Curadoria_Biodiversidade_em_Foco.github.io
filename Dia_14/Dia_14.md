@@ -17,23 +17,24 @@
 ###### Mapa adaptado de Haffer 1978, mostrando os refúgios (hachuras pretas)
 
 #### Tweet 14.3 Aves neotropicais
-###### Aves neotropicais são execelentes espécies-modelos para testar hipóteses de diversifiação, geralmente são grupos megadiversos e com amplas distribuição nessa região. 
+###### Aves neotropicais são execelentes espécies-modelos para testar hipóteses de diversifiação, geralmente são grupos megadiversos e com amplas distribuição nessa região. Deixo aqui um registro fotográfico que fiz do arapaçu-de-bico-branco
 
-###### Foto minha do Wikiaves
+###### Wiki Aves - A Enciclopédia das Aves do Brasil https://www.wikiaves.com.br/1328292#.XzSRzDbQjNQ.twitter 
 
 #### Tweet 14.4 Biogeografia, história evolutiva (A biologia molecular como ferramenta)- 2 twiites
-##### Conclui graduação em biologia com um TCC sobre a história evolutiva do arapauçu-de-garganta-amarela. E continuei essa ivestigação durante o mestrado, sobre passado desse passáro, através da filogeografia*. 
+##### Conclui graduação em biologia com um TCC sobre a história evolutiva do arapauçu-de-garganta-amarela. E continuei essa ivestigação durante o mestrado, sobre passado desse passáro, através da filogeografia*. E aí vai um belo registro desse arapaçu feito pelo @ciro_albano
 
-###### foto do arapaçu lá do wiki aves
+###### Foto arapaçu-de-lafresnaye (Xiphorhynchus guttatoides) Por Ciro Albano https://www.wikiaves.com.br/863441&tm=f&t=s&s=11983&o=mp&p=3#.XzSS-QHZbhY.twitter 
 
 #### Tweet 14.5 Filogeografia 
 ###### Filogeografia é  um ramo da biogeografia (buscar entender a distribuição geográfica das espécies no espaço e tempo). Mas a filogeografia faz uso da biologia molecular e suas árvore genealógicas para compreender essa distribuição espaço-temporal. 
+
+###### Gifs
 
 
 #### Tweet 14.6
 ###### Essa é a árovre genealógica dos arapaçus que estudei desde a iniação científica, e uma mapa mostrando como essas populações estão espacialmente distribuidas. Eu acabei descobrindo que possivelmente esses arapaçus se dividiram em duas espécies a cerca de 3 milhoes de anos atrás!! 
 
-###### Figura do mapa e link
 
 
 #### Tweet 14.6.1 Amazônia
