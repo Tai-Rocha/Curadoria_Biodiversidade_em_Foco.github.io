@@ -23,11 +23,11 @@
     
 16. "Todos os nossos ontens"  (Murakami, H. 1992 **Sul da Fronteira Oeste do sol**)
       
-    - [x] IUCN (1 tweet) 
-    - [x] IBGE (1 tweet)
-    - [x] SiBbr  
-    - [x] Outras legais (3 tweet)
-    - [x] Ultilidade e importâcia dessas bases (1 tweet) 
+    - [ ] IUCN (1 tweet) 
+    - [ ] IBGE (1 tweet)
+    - [ ] SiBbr  
+    - [ ] Outras legais (3 tweet)
+    - [ ] Ultilidade e importâcia dessas bases (1 tweet) 
 
 
 19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)* Este é o dia 19 e não o 17. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
