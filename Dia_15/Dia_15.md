@@ -17,6 +17,9 @@
 
 ##### No estudo de 2015, vimos que o arapaçu sei lá das quantas na verdade eram duas espécies. Quando baixei pela primeira vez o dado da IUCN o shape ainda era assim... e agora é assim.
 
+![ante_e_depois](https://user-images.githubusercontent.com/11633554/90156982-891b7400-dd63-11ea-8f39-4ba63ae4df61.png)
+
+
 #### Tweet 15.4 Bases de shapefiles
 ##### Existem muitas bases interessantes que disponibilizam dados em formato vetorial (os shapefiles), como esses da @IUCNredlist.
 
