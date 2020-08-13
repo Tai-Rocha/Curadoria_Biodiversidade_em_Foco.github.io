@@ -15,11 +15,11 @@
     
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
       
-    - [x] Outras possibilidades para analisar a biodiversidade (1 tweet) 
-    - [x] IUCN (1 tweet)
-    - [x] A propósito, distribuição do arapaçu : antes e depois (Rocha et al., 2015) (1 tweet)
-    - [x] Passarinhadas goeldianas (1 tweet)
-    - [x] Campo amazônico : Caxiuanão (1 tweet)
+    - [x] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
+    - [x] Bons Tempos de passarinhada goeldianas (1 tweet)
+    - [x] O bico do beija-flor, beija a flor  
+    - [x] Outras possibilidades (1 tweet)
+    - [x] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
     
          
 
