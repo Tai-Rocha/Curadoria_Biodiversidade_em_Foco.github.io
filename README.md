@@ -5,9 +5,13 @@
 
 ###### Dia 14 : "Pra viver no teu tempo é que eu faço viagens no espaço" (Canção Tempo e Espaço, de Paulo Vanzollini) 
 
-      [ ] Tempo e espaço Contextualização (1 tweet)  
-      [ ] Biodiversidade nos neotrópicos (1 twees)
-      [ ] Biogeografia, história evolutiva e a biologia molecular como ferramenta de pesquisa (2 tweets)
+      [x] Tempo e espaço Contextualização (2 tweet)  
+      [x] Biodiversidade nos neotrópicos, as aves neotropicais (1 twees)
+      [x] Biogeografia, história evolutiva (1 tweets)
+      [x] Filogeografia (2 tweets, Rocha et al 2015)
+      [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
+      
+      
       
 ###### Dia 19: "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi).
       
