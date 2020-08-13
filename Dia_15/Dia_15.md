@@ -1,4 +1,4 @@
-###### Dia 15: "Todos os nossos ontem" (Ginzburg, N. Todos os nossos ontem 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
+###### Dia 15: "Todos os nossos ontens" (Ginzburg, N. Todos os nossos ontem 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
 
 #### Tweet 15.1 Novas possibilidades para analisar a biodiversidade
 
