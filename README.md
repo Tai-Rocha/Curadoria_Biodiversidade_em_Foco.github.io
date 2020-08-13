@@ -28,9 +28,18 @@
     - [ ] SiBbr  
     - [ ] Outras legais (3 tweet)
     - [ ] Ultilidade e importâcia dessas bases (1 tweet) 
+    
+17. "Pereira afrima que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espassa cortina de névoa (...) Marcava trinta e oito graus"  (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
+      
+    - [ ] Wordclim (1 tweet) 
+    - [ ] ecoClimate (1 tweet)
+    - [ ] Paleoclim  
+    - [ ] Chelsa e outras ? (3 tweet)
+    - [ ] MapBiomas (1 tweet)
+    - [ ] Ultilidade e importâcia dessas bases (1 tweet)    
 
 
-19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)* Este é o dia 19 e não o 17. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
+19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)* Este é o dia 19 e não o 18. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
       
     - [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
     - [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
