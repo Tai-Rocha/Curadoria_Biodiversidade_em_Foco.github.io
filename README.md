@@ -21,7 +21,7 @@
     - [x] Outras possibilidades (1 tweet)
     - [x] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
     
-16. "Todos os nossos ontens"  (Murakami, H. 1992 Sul da Fronteira Oeste do sol)
+16. "Todos os nossos ontens"  (Murakami, H. 1992 **Sul da Fronteira Oeste do sol**)
       
     - [x] IUCN (1 tweet) 
     - [x] IBGE (1 tweet)
