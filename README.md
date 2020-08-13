@@ -13,7 +13,7 @@
       
       
       
-###### Dia 19: "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi).
+###### Dia 19: "Ambos habían sido modernizados y no tenían nada de tenebrosos." (García Márquez,1992, p.130. Doce cuentos peregrinos).
       
       [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
       [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
