@@ -22,7 +22,7 @@
 ###### Wiki Aves - A Enciclopédia das Aves do Brasil https://www.wikiaves.com.br/1328292#.XzSRzDbQjNQ.twitter 
 
 #### Tweet 14.4 Biogeografia, história evolutiva 
-###### Conclui graduação em biologia com um TCC sobre a história evolutiva do arapauçu-de-garganta-amarela. E continuei essa ivestigação durante o mestrado, sobre passado desse passáro, através da filogeografia*. E aí vai um belo registro desse arapaçu feito pelo @ciro_albano
+###### Conclui graduação em biologia com um TCC sobre a história evolutiva do arapauçu-de-garganta-amarela. Continuei essa ivestigação durante o mestrado, sobre passado desse passarinho, através da filogeografia*. E aí vai um belo registro desse arapaçu feito pelo @ciro_albano
 
 ###### Foto arapaçu-de-lafresnaye (Xiphorhynchus guttatoides) Por Ciro Albano https://www.wikiaves.com.br/863441&tm=f&t=s&s=11983&o=mp&p=3#.XzSS-QHZbhY.twitter 
 
