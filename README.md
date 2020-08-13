@@ -21,7 +21,13 @@
     - [x] Outras possibilidades (1 tweet)
     - [x] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
     
-         
+ 16. "_______________"  (Murakami, H. 1992 Sul da Fronteira Oeste do sol)
+      
+    - [x] IUCN (1 tweet) 
+    - [x] IBGE (1 tweet)
+    - [x] INDIE (1 tweet)
+    - [x] SiBbr (1 tweet)
+    - [x] outras (1 tweet)         
 
 
 19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)* Este é o dia 19 e não o 16. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
