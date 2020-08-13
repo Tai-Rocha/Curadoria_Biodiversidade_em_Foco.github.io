@@ -23,6 +23,8 @@
 #### Tweet 15.4 Bons Tempos de passarinhada
 ###### Essa era a gelerinha que acorda 4 da matina pra ir passarinha pra postar foto no wiki aves 
 
+![passarinhada_team](https://user-images.githubusercontent.com/11633554/90166821-2b8e2400-dd71-11ea-9e2a-afda7b5389e0.png)
+
 #### Tweet 15.5 Beija-flor
 ###### Meu melhor registro foi de um beija-flor.... bons tempo!
 
