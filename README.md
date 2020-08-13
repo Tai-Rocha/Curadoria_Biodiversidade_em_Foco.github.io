@@ -21,7 +21,7 @@
     - [x] Outras possibilidades (1 tweet)
     - [x] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
     
-16. "???????????????????"  (Murakami, H. 1992 **Sul da Fronteira Oeste do sol**)
+16. " Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**)
       
     - [ ] IUCN (1 tweet) 
     - [ ] IBGE (1 tweet)
