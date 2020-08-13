@@ -41,8 +41,15 @@
     - [ ] MapBiomas (1 tweet)
     - [ ] Ultilidade e importâcia dessas bases (1 tweet)    
 
+18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi). 
+      
+    - [ ] Dado,Informação,Conhecimento
+    - [ ] Usando os bancos de dados
+    - [ ] Modelos de Nichos e SDMS   
+    - [ ] Trabalho da Science história evolutiva  (1 tweet)
+    - [ ] Trabalho Ecography mudanças climátcas e resgate evoltuivo      
 
-19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)* Este é o dia 19 e não o 18. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
+19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)
       
     - [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
     - [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
