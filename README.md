@@ -6,9 +6,6 @@
 ## Steps for niche analysis :
 
 14. Temas dos dia:
-
-    - [ ] rocc (https://github.com/saramortara/rocc)  
-    - [ ] spocc (https://github.com/ropensci/spocc)
     
     - [x] Tempo e espaço Contextualização (2 tweet)  
     - [x] Biodiversidade nos neotrópicos, as aves neotropicais (1 twees)
