@@ -15,7 +15,7 @@
 
 #### Tweet 15.3 A propósito....
 
-##### Depois que descobri que arapaçu que estudei na verdade eram duas espçies diferentes, os mapas em shapefile, da área de ocorrência para este grupo também mudou na IUCN, veja o antes. E não deixem também de ver os ícríveis registros fotográficos dos meu colegas @CaioBrito e @AdrianoMaciel
+##### Depois que descobri que arapaçu que estudei na verdade eram duas espçies diferentes, os mapas em shapefile, da área de ocorrência para este grupo mudaram na IUCN, veja o antese depois. E também não deixem  de ver os incríveis registros fotográficos dos meu colegas @CaioBrito e @AdrianoMaciel 
 
 ![ante_e_depois](https://user-images.githubusercontent.com/11633554/90156982-891b7400-dd63-11ea-8f39-4ba63ae4df61.png)
 
