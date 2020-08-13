@@ -27,7 +27,8 @@
     - [x] IBGE (1 tweet)
     - [x] INDIE (1 tweet)
     - [x] SiBbr (1 tweet)
-    - [x] outras (1 tweet)         
+    - [x] outras (1 tweet) 
+    - [x] Utilidade dessas bases  
 
 
 19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)* Este é o dia 19 e não o 16. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
