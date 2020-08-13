@@ -18,7 +18,7 @@
     - [x] Outras possibilidades para analisar a biodiversidade (1 tweet) 
     - [x] IUCN (1 tweet)
     - [x] A propósito, distribuição do arapaçu : antes e depois (Rocha et al., 2015) (1 tweet)
-    - [x] Trabalhos de campos e passarinhadas (1 tweet)
+    - [x] Passarinhadas goeldianas (1 tweet)
     - [x] Campo amazônico : Caxiuanão (1 tweet)
     
          
