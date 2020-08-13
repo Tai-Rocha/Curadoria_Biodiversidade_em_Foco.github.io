@@ -14,7 +14,7 @@
     - [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
 
 
-19. "Ambos habían sido modernizados y no tenían nada de tenebrosos." (Márquez,Gabirel. 'Espantos de agosto'. Doce cuentos peregrinos 1992):
+19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabirel. 'Espantos de agosto'. Doce cuentos peregrinos 1992):
       
       [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
       [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
