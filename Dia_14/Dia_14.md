@@ -37,6 +37,7 @@
 
 ![filogeografia](https://user-images.githubusercontent.com/11633554/90083483-09e95a00-dce9-11ea-8e5b-5c739a5e4d31.png)
 
+###### https://www.researchgate.net/publication/272523192_Molecular_phylogeny_and_diversification_of_a_widespread_Neotropical_rainforest_bird_group_The_Buff-throated_Woodcreeper_complex_Xiphorhynchus_guttatussusurrans_Aves_Dendrocolaptidae
 
 
 #### Tweet 14.6.1 Amazônia
@@ -44,7 +45,10 @@
 
 
 
-###### Foto do artigo
+![Amazon_](https://user-images.githubusercontent.com/11633554/90083595-62b8f280-dce9-11ea-89e6-a8ed998d8c36.png)
+
+###### https://www.researchgate.net/publication/47755601_Amazonia_Through_Time_Andean_Uplift_Climate_Change_Landscape_Evolution_and_Biodiversity
+
 
 #### Tweet 14.6 Pq estudar o passado é imporante?
 
