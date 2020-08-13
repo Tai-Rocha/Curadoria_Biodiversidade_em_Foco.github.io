@@ -17,7 +17,7 @@
       
     - [x] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
     - [x] Bons Tempos de passarinhada goeldianas (1 tweet)
-    - [x] O bico do beija-flor, beija a flor  
+    - [x] O bico do beija-flor beija a flor  
     - [x] Outras possibilidades (1 tweet)
     - [x] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
     
