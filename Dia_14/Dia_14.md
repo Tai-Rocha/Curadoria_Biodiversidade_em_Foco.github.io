@@ -22,7 +22,7 @@
 ###### Wiki Aves - A Enciclopédia das Aves do Brasil https://www.wikiaves.com.br/1328292#.XzSRzDbQjNQ.twitter 
 
 #### Tweet 14.4 Biogeografia, história evolutiva (A biologia molecular como ferramenta)- 2 twiites
-##### Conclui graduação em biologia com um TCC sobre a história evolutiva do arapauçu-de-garganta-amarela. E continuei essa ivestigação durante o mestrado, sobre passado desse passáro, através da filogeografia*. E aí vai um belo registro desse arapaçu feito pelo @ciro_albano
+###### Conclui graduação em biologia com um TCC sobre a história evolutiva do arapauçu-de-garganta-amarela. E continuei essa ivestigação durante o mestrado, sobre passado desse passáro, através da filogeografia*. E aí vai um belo registro desse arapaçu feito pelo @ciro_albano
 
 ###### Foto arapaçu-de-lafresnaye (Xiphorhynchus guttatoides) Por Ciro Albano https://www.wikiaves.com.br/863441&tm=f&t=s&s=11983&o=mp&p=3#.XzSS-QHZbhY.twitter 
 
@@ -35,12 +35,13 @@
 #### Tweet 14.6
 ###### Essa é a árovre genealógica dos arapaçus que estudei desde a iniação científica, e uma mapa mostrando como essas populações estão espacialmente distribuidas. Eu acabei descobrindo que possivelmente esses arapaçus se dividiram em duas espécies a cerca de 3 milhoes de anos atrás!! 
 
+![filogeografia](https://user-images.githubusercontent.com/11633554/90083483-09e95a00-dce9-11ea-8e5b-5c739a5e4d31.png)
+
 
 
 #### Tweet 14.6.1 Amazônia
 ###### Isso porquê muitas água rolaram pelos rios amazônicos aos longo dos milhares de anos. Foi mudança no sentido de curso dos rios, expansão da terra firme, fechamento do Istmo do Panamá! Se liga nos acontecimentos que @CarinaHorn mostrou pro mundo lá na science dessse babados todos:
 
-###### Foto do artigo
 
 
 ###### Foto do artigo
