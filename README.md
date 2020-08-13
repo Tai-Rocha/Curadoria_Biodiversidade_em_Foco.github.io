@@ -18,7 +18,7 @@
     - [x] Novas possibilidades para analisar a biodiversidade (1 tweet) 
     - [x] IUCN (1 tweet)
     - [x] A propósito, distribuição do arapaçu : antes e depois (Rocha et al., 2015) (1 tweet)
-    - [x] Outras bases de shapefiles
+    - [x] Bases de shapefiles
     
          
 
