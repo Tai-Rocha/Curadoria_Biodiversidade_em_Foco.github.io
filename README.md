@@ -25,7 +25,10 @@
       
     - [ ] IUCN (1 tweet) 
     - [ ] IBGE (1 tweet)
-    - [ ] SiBbr  
+    - [ ] SiBbr(1 tweet) 
+    - [ ] GBIF (1 tweet)
+    - [ ] speciesLink (1 tweet)
+    - [ ] JABOT (1 tweet)
     - [ ] Outras legais (3 tweet)
     - [ ] Ultilidade e importâcia dessas bases (1 tweet) 
     
