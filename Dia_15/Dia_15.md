@@ -15,7 +15,7 @@
 
 #### Tweet 15.3 A propósito....
 
-##### No estudo de 2015, vimos que o arapaçu sei lá das quantas na verdade eram duas espécies. Quando baixei pela primeira vez o dado da IUCN o shape ainda era assim... e agora é assim.
+##### Depois que descobri que arapaçu que estudei na verdade eram duas espçies diferentes, os mapas em shapefile, da área de ocorrência para este grupo também mudou na IUCN, veja o antes. E não deixem também de ver os ícríveis registros fotográficos dos meu colegas @CaioBrito e @AdrianoMaciel
 
 ![ante_e_depois](https://user-images.githubusercontent.com/11633554/90156982-891b7400-dd63-11ea-8f39-4ba63ae4df61.png)
 
