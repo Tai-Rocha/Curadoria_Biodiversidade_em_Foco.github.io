@@ -5,7 +5,7 @@
 
 ## Steps for niche analysis :
 
-14. Compiled occurrence records for species. Here we use 2 workflows for this step:
+14. Temas dos dia:
 
     - [ ] rocc (https://github.com/saramortara/rocc)  
     - [ ] spocc (https://github.com/ropensci/spocc)
