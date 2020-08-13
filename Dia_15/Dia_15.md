@@ -21,7 +21,7 @@
 
 
 #### Tweet 15.4 Bons Tempos de passarinhada
-###### Essa era a gelerinha que acorda 4 da matina pra ir passarinha pra postar foto no wiki aves 
+###### Essa era a gelerinha que acordava 4 da matina pra ir passarinha pra postar foto no wiki aves @adrianomaciel @leomoura @lucasaraujo
 
 ![passarinhada_team](https://user-images.githubusercontent.com/11633554/90166821-2b8e2400-dd71-11ea-9e2a-afda7b5389e0.png)
 
