@@ -31,7 +31,7 @@
 ###### https://www.wikiaves.com.br/1335230
 
 #### Tweet 15.6 Flona de Caxiuanã
-###### o Melhor campo amazônico da vida
+###### o Melhor campo amazônico da vida... eu, com as madeixas de fogo, tal qual uma maria-leque  :laughing:
 
 ![Caxiaunã](https://user-images.githubusercontent.com/11633554/90166910-51b3c400-dd71-11ea-8c8c-0492532440cb.png)
 
