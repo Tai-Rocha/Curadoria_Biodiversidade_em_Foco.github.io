@@ -1,4 +1,4 @@
-### Dia 19
+### Dia 19  "Ambos habían sido modernizados y no tenían nada de tenebrosos." (Márquez,Gabirel. 'Espantos de agosto'. Doce cuentos peregrinos 1992)
 
 ##### Tweet 19.1. 
 ###### Desde o começo dos anos 2000 surgiram várias interfaces gráficas para gerar modelos de nichos como #DesktopGar, #OpenModeler, #ModEco #Maxent
