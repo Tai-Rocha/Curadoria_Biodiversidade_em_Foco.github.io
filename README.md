@@ -11,9 +11,19 @@
     - [x] Biogeografia, história evolutiva (1 tweets)
     - [x] Filogeografia (2 tweets, Rocha et al 2015)
     - [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
+    
+    
+15. "_______________________________________________________________________________________"
+      
+    - [x] Novas possibilidades para analisar a biodiversidade (1 tweet) 
+    - [x] IUCN (1 tweet)
+    - [x] A propósito, distribuição do arapaçu : antes e depois (Rocha et al., 2015) (1 tweet)
+    - [x] Outras bases de shapefiles
+    
+         
 
 
-19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabirel. 'Espantos de agosto'. Doce cuentos peregrinos 1992)* Este é o dia 19 e não o 15. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
+19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabirel. 'Espantos de agosto'. Doce cuentos peregrinos 1992)* Este é o dia 19 e não o 16. Mas o ".md" só reconhece a cheklist se estiver na ordem certa e consecutiva :expressionless:
       
     - [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
     - [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
