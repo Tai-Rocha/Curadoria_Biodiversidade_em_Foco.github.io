@@ -13,7 +13,7 @@
     - [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
     
     
-15. "Todos os nossos ontem"  (GinzBurg, N)
+15. "Todos os nossos ontem"  (GinzBurg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S>A)
       
     - [x] Novas possibilidades para analisar a biodiversidade (1 tweet) 
     - [x] IUCN (1 tweet)
