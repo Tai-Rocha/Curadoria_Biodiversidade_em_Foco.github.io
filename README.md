@@ -41,7 +41,7 @@
     - [ ] MapBiomas (1 tweet)
     - [ ] Ultilidade e importâcia dessas bases (1 tweet)    
 
-18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. O dia em que Selma sonhou com um Ocapi). 
+18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
       
     - [ ] Dado,Informação,Conhecimento
     - [ ] Usando os bancos de dados
