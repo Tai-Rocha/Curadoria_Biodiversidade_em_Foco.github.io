@@ -9,12 +9,12 @@
     
        https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_14/Dia_14.md
    
-    - [x] Tempo e espaço (2 tweet)  
-    - [x] Biodiversidade nos neotrópicos, as aves neotropicais (1 twees)
-    - [x] Aves neotropicais (1 tweets)
-    - [ ] Filogeografia (2 tweets, Rocha et al 2015)
-    - [ ] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
-    - [ ] Conservação: o valor monetário da biodiversidade.
+    - [x] Vanzolini: Tempo e espaço  
+    - [x] Os refúgios
+    - [x] Um teste de hipótese
+    - [x] Aves neotropicais modelos (Rocha et al., 2015)
+    - [x] O histórico é importante 
+    - [x] Conservação: o valor monetário da biodiversidade.
     
     
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
