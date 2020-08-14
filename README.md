@@ -48,8 +48,8 @@
     - [ ] Usando os bancos de dados
   
     - [ ] Modelos de nicho ecológico (MNEs) e modelos de distribuição de espécies (MDSs) (1 tweet)  
-    - [ ] Silva et al 2019  (1 tweet)
-    - [ ] Diniz‐Filho et al 2019 (tweet)     
+    - [ ] Silva et al 2019, o passado (1 tweet)
+    - [ ] Diniz‐Filho et al 2019, o futuro (tweet)     
 
 19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)
       
