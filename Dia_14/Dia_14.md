@@ -19,9 +19,12 @@
 
 
 #### Tweet 14.3 Aves neotropicais
-###### Aves neotropicais são excelente espécies-modelos para testar hipóteses de diversificação, geralmente são grupos megadiversos e com ampla distribuição nessa região. Deixo aqui um registro fotográfico que fiz do arapaçu-de-bico-branco
+##### Testei a hipótese dos refúgios, com aves na iniciação científica, tentando entender melhor o porquê da alta diversidade e padrões de distribuição de aves. Fica aqui o melhor registros que fiz! Muito tempo depois, já no doutorado em 2014 
 
-###### Wiki Aves - A Enciclopédia das Aves do Brasil https://www.wikiaves.com.br/1328292#.XzSRzDbQjNQ.twitter 
+##### https://www.wikiaves.com.br/1335230
+
+
+
 
 #### Tweet 14.4 Biogeografia, história evolutiva 
 ###### Concluí graduação em biologia com um TCC sobre a história evolutiva do arapauçu-de-garganta-amarela. Continuei essa ivestigação durante o mestrado, sobre passado desse passarinho, através da filogeografia*. E aí vai um belo registro desse arapaçu feito pelo @ciro_albano
