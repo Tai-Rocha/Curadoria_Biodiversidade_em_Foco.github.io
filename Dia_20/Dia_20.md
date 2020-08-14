@@ -6,7 +6,7 @@ Movimento que fomenta a transparência, acessibilidade e colaboração da pesqui
 ###### SCI-HUB/Alexandra Elbakyan figure
 
 
-##### Tweet 19.4.1
+##### Tweet 20.x
 Aos interessados em aprofundar no assunto , segue alguns links de pontos de partida =D
 
 
