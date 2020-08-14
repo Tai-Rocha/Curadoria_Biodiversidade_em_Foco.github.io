@@ -3,7 +3,7 @@
 #### Tema da Semana: ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e tempo. 
 ##### Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os demais dias trazem trechos ou títtulos de livros editados pelo clube TAG Experiências Literárias. Minha singela homenagem ao zoólogo e compistor Paulo Vanzolini, ao clube TAG e seus associados. Ao final da curadoria, um breve off-topic sobre esses livros :rose:
 
-###### Obs.: Formatações e edições em progresso.
+###### Obs.: Conteúdos, Formatações e edições em construção.
 
 14. "Pra viver no teu tempo é que eu faço viagens no espaço" (Canção Tempo e Espaço, de Paulo Vanzollini) :
     
