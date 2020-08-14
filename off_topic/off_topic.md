@@ -1,3 +1,3 @@
 
 
-Imagens e títulos e trechos das edições TAG
+Imagen, títulos e trechos das edições TAG
