@@ -1,4 +1,4 @@
-#### Dia 14 :"Pra viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzolini)  
+#### Dia 14 :"Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzolini)  
 
 ##### Twiite 14.1 Contextualização 
 
