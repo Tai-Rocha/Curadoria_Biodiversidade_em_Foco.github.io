@@ -57,7 +57,7 @@
     - [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
     - [x] modleR pckg
     - [x] modleR integrantes
-    - [x] Simples assim (dados georreferencias + dados ambinetais)
+    - [x] Simples assim (dados georreferenciados + dados ambientais)
     - [x] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
       
 
