@@ -10,8 +10,10 @@
 
 ##### Tweet 14.2 Contextualização e História 
 
-###### A hipótese dos refúgios foi uma das contribuições de Vanzolini, embora muitos só mencionem Jürgen Haffer. Testei essa hipótese com aves ainda na inciação científca, além de outras hipóteses, tentando esclarecer sobre a alta diversidade neotropical e seus padrões de distribuição. 
-###### Essa hipótese propunha que devido a vários períodos de seca durante o Pleistoceno e Holoceno a Floresta Amazônica ficou dividida em pequenas florestas (refúgios). E assim, as populações que ficavam isoladas nesses refúgios aos poucos se diferenciavam das demais por não terem mais contatos/cruzamento umas com as outras.
+###### A hipótese dos refúgios foi uma das contribuições de Vanzolini, embora muitos só mencionem Jürgen Haffer.  
+###### Essa hipótese propunha que devido a vários períodos de seca durante o Pleistoceno e Holoceno a Floresta Amazônica ficou dividida em pequenas florestas (refúgios). 
+###### E assim, as populações que ficavam isoladas nesses refúgios aos poucos se diferenciavam das demais por não terem mais contatos/cruzamento umas com as outras.
+###### Testei essa hipótese com aves ainda na inciação científca, além de outras hipóteses, tentando esclarecer sobre a alta diversidade neotropical e seus padrões de distribuição.
 
 ![Haffer_1978](https://user-images.githubusercontent.com/11633554/89956386-78f08100-dc0b-11ea-90cb-44faf5596593.png)
 ###### Mapa adaptado de Haffer 1978, mostrando os refúgios (hachuras pretas)
