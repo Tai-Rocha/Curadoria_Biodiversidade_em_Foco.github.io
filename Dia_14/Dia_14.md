@@ -52,7 +52,7 @@
 
 #### Tweet 14.6 Por que estudar o passado é imporante?
 
-###### Entender o histórico de grupos taxonômicos,sua distribuição no tempo/espaço,são importantes,por exemplo, para ações conservação.Essa história pode nos apontar as localidades que merecem esforços conservacionistas. Entender as história faz toda diferença,em vários sentidos #FicaaDica #PovoBrasileiro
+###### Entender o histórico de grupos taxonômicos,sua distribuição no tempo/espaço,são importantes,por exemplo, para ações conservação.Essa história pode nos apontar as localidades que merecem esforços conservacionistas. Entender as história faz toda diferença,em vários sentidos #FicaaDica
 
 ###### Gifs
 
