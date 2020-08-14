@@ -1,6 +1,6 @@
 #### Dia 14 :"Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzolini)  
 
-##### Twiite 14.1 Contextualização 
+##### Twiite 14.1 Vanzolini
 
 ###### Para viver no teu tempo é que eu faço viagens no espaço, cantava Vanzolini,que além das canções como bom sambista, deixou valiosas contribuições sobre a biodiversidade! Ele dizia ser fundamental estudar as distribuições das populações de uma espécie no tempo e espaço.
 
@@ -8,8 +8,7 @@
 
 
 
-##### Tweet 14.2 Contextualização e História 
-
+##### Tweet 14.2 Hipótese dos Refúgios
 ###### Embora muito se fale em Jürgen Haffer, Vanzolini trouxe um exemplo prático do que Haffer propusera teoricamente: a hipótese de refúgios, onde os vários períodos de seca durante o Pleistoceno e Holoceno teriam dividido a Floresta Amazônica  em pequenas florestas (os refúgios).
 
 ![Haffer_1978](https://user-images.githubusercontent.com/11633554/89956386-78f08100-dc0b-11ea-90cb-44faf5596593.png)
