@@ -15,7 +15,7 @@
 ###### E assim, as populações ficavam isoladas em refúgios, sem contato/cruzamento umas com as outras, e por isso aos poucos se tornavam diferentes.
 
 # 3 
-##### Testei a hipótese dos refúgios, com aves na iniciação científica, tentando entender melhor o porquê da alta diversidade e padrões de distribuição de aves. Fica aqui o melhor registros que fiz! Muito tempo depois, já no doutorado em 2014 
+###### Testei a hipótese dos refúgios, com aves na iniciação científica, tentando entender melhor o porquê da alta diversidade e padrões de distribuição de aves. Fica aqui o melhor registros que fiz! Muito tempo depois, já no doutorado em 2014 
 
 ###### https://www.wikiaves.com.br/1335230
 
