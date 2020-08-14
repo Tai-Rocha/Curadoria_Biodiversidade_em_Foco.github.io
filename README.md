@@ -3,11 +3,11 @@
 #### Tema da Semana: ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e tempo. 
 ##### Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os demais dias trazem trechos ou títtulos de livros editados pelo clube TAG Experiências Literárias. Minha singela homenagem ao zoólogo e compistor Paulo Vanzolini, ao clube TAG e seus associados. Ao final da curadoria, um breve off-topic sobre esses livros :rose:
 
-###### Obs.: Conteúdos, Formatações e edições em construção.
+###### Obs.: Conteúdos, formatações e edições em construção.
 
-14. "Pra viver no teu tempo é que eu faço viagens no espaço" (Canção Tempo e Espaço, de Paulo Vanzollini) :
+14. "Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzollini) :
     
-    - [x] Tempo e espaço Contextualização (2 tweet)  
+    - [x] Tempo e espaço (2 tweet)  
     - [x] Biodiversidade nos neotrópicos, as aves neotropicais (1 twees)
     - [x] Biogeografia, história evolutiva (1 tweets)
     - [x] Filogeografia (2 tweets, Rocha et al 2015)
@@ -44,12 +44,12 @@
 
 18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
       
-    - [ ] Dado,Informação,Conhecimento
+    - [ ] Dado,informação,conhecimento
     - [ ] Usando os bancos de dados
   
-    - [ ] Modelos de Nichos e SDMS   
-    - [ ] Trabalho da Science história evolutiva  (1 tweet)
-    - [ ] Trabalho Ecography mudanças climátcas e resgate evoltuivo      
+    - [ ] Modelos de nicho ecológico (MNEs) e modelos de distribuição de espécies (MDSs) (1 tweet)  
+    - [ ] Silva et al 2018  (1 tweet)
+    - [ ] Diniz‐Filho et al 2019 (tweet)     
 
 19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)
       
