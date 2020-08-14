@@ -7,6 +7,8 @@
 
 14. "Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzollini) :
     
+       https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_14/Dia_14.md
+   
     - [x] Tempo e espaço (2 tweet)  
     - [x] Biodiversidade nos neotrópicos, as aves neotropicais (1 twees)
     - [x] Biogeografia, história evolutiva (1 tweets)
