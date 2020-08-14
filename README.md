@@ -27,12 +27,12 @@
      
      Bases de dados georreferenciados e outros
       
-    - [ ] IUCN (1 tweet) 
-    - [ ] IBGE (1 tweet)
-    - [ ] SiBbr(1 tweet) 
-    - [ ] GBIF (1 tweet)
-    - [ ] speciesLink (1 tweet)
-    - [ ] JABOT (1 tweet)
+    - [ ] @UCN (1 tweet) 
+    - [ ] @IBGE (1 tweet)
+    - [ ] @SisBbr(1 tweet) 
+    - [ ] @GBIF (1 tweet)
+    - [ ] @speciesLink (1 tweet)
+    - [ ] J@ABOT (1 tweet)
     - [ ] Outras legais (3 tweet)
     - [ ] Ultilidade e importância dessas bases (1 tweet) 
     
@@ -40,11 +40,11 @@
       
       Bases de dados climáticos e outros
       
-    - [ ] Wordclim (1 tweet) 
-    - [ ] ecoClimate (1 tweet)
-    - [ ] Paleoclim  
-    - [ ] Chelsa e outras ? (3 tweet)
-    - [ ] MapBiomas (1 tweet)
+    - [ ] @Wordclim (1 tweet) 
+    - [ ] @ecoClimate (1 tweet)
+    - [ ] @Paleoclim  
+    - [ ] @Chelsa e outras ? (3 tweet)
+    - [ ] @MapBiomas (1 tweet)
     - [ ] Ultilidade e importância dessas bases (1 tweet)    
 
 18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
