@@ -36,7 +36,7 @@
     - [ ] Outras legais (3 tweet)
     - [ ] Ultilidade e importância dessas bases (1 tweet) 
     
-17. "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus"  (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
+17. "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
       
       Bases de dados climáticos e outros
       
