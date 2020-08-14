@@ -7,6 +7,6 @@ Movimento que fomenta a transparência, acessibilidade e colaboração da pesqui
 
 
 ##### Tweet 19.4.1
-Pra quem tiver interesse em aprofundar no assum , segue alguns links de pontos de partida =D
+Aos interessados em aprofundar no assunto , segue alguns links de pontos de partida =D
 
 
