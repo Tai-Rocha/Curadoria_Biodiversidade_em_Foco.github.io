@@ -60,11 +60,11 @@
 
 19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)
       
-    - [x] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
-    - [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
-    - [x] modleR pckg
-    - [x] modleR integrantes
-    - [x] Simples assim (dados georreferenciados + dados ambientais)
-    - [x] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
+    - [ ] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
+    - [ ] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
+    - [ ] modleR pckg
+    - [ ] modleR integrantes
+    - [ ] Simples assim (dados georreferenciados + dados ambientais)
+    - [ ] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
       
 
