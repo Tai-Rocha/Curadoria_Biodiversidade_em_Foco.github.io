@@ -33,7 +33,7 @@
 
 
 #### Tweet 14.6
-###### Essa é a árovre genealógica dos arapaçus que estudei desde a iniação científica, e uma mapa mostrando como essas populações estão espacialmente distribuidas. Eu acabei descobrindo que possivelmente esses arapaçus se dividiram em duas espécies a cerca de 3 milhoes de anos atrás!! 
+###### Essa é a árovre genealógica dos arapaçus que estudei desde a iniação científica e uma mapa mostrando como essas populações estão espacialmente distribuidas. Descobri que possivelmente esses arapaçus se dividiram em duas espécies a cerca de 3 milhões de anos atrás!! 
 
 ![filogeografia](https://user-images.githubusercontent.com/11633554/90083483-09e95a00-dce9-11ea-8e5b-5c739a5e4d31.png)
 
