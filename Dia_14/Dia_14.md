@@ -11,13 +11,13 @@
 ##### Tweet 14.2 Contextualização e História 
 
 ###### A hipótese dos refúgios foi uma das contribuições de Vanzolini, embora muitos só mencionem Jürgen Haffer. Testei essa hipótese com aves ainda na inciação científca, além de outras hipóteses, tentando esclarecer sobre a alta diversidade neotropical e seus padrões de distribuição. 
-
+###### Essa hipótese propunha que devido a vários períodos de seca durante o Pleistoceno e Holoceno a Floresta Amazônica ficou dividida em pequenas florestas (refúgios). E assim, as populações que ficavam isoladas nesses refúgios aos poucos se diferenciavam das demais por não terem mais contatos/cruzamento umas com as outras.
 
 ![Haffer_1978](https://user-images.githubusercontent.com/11633554/89956386-78f08100-dc0b-11ea-90cb-44faf5596593.png)
 ###### Mapa adaptado de Haffer 1978, mostrando os refúgios (hachuras pretas)
 
 #### Tweet 14.3 Aves neotropicais
-###### Aves neotropicais são excelente espécies-modelos para testar hipóteses de diversifiação, geralmente são grupos megadiversos e com ampla distribuição nessa região. Deixo aqui um registro fotográfico que fiz do arapaçu-de-bico-branco
+###### Aves neotropicais são excelente espécies-modelos para testar hipóteses de diversificação, geralmente são grupos megadiversos e com ampla distribuição nessa região. Deixo aqui um registro fotográfico que fiz do arapaçu-de-bico-branco
 
 ###### Wiki Aves - A Enciclopédia das Aves do Brasil https://www.wikiaves.com.br/1328292#.XzSRzDbQjNQ.twitter 
 
