@@ -12,6 +12,7 @@
     - [x] Biogeografia, história evolutiva (1 tweets)
     - [x] Filogeografia (2 tweets, Rocha et al 2015)
     - [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
+    - [x] Conservação: o valor monetário da biodiversidade.
     
     
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
