@@ -2,7 +2,7 @@
 
 ##### Twiite 14.1 Contextualização 
 
-###### Pra viver no teu tempo é que eu faço viagens no espaço, já dizia Vanzolini,que além de belas canções, nos deixou valiosas contribuições sobre a biodiversidade. Ele dizia que era fundamental estudar as distribuições das populações de uma espécies no tempo e espaço.
+###### Para viver no teu tempo é que eu faço viagens no espaço, cantava Vanzolini,que além das canções como bom sambista, deixou valiosas contribuições sobre a biodiversidade! Ele dizia ser fundamental estudar as distribuições das populações de uma espécie no tempo e espaço.
 
 ####### ![Vanzollini_LuciaCarvalho](https://user-images.githubusercontent.com/11633554/89956305-49417900-dc0b-11ea-96d7-635e56194581.png)
 
@@ -10,7 +10,7 @@
 
 ##### Tweet 14.2 Contextualização e História 
 
-###### A hipótese dos refúgios foi uma das contribuições de Vanzolini, embora muitos só mencionem Jürgen Haffer.  
+###### Embora muitos se mencione Jürgen Haffer, Vanzoli hipótese dos refúgios foi onde  contribuições de Vanzolini, .  
 ###### Essa hipótese propunha que devido a vários períodos de seca durante o Pleistoceno e Holoceno a Floresta Amazônica ficou dividida em pequenas florestas (refúgios). 
 ###### E assim, as populações ficavam isoladas em refúgios, sem contato/cruzamento umas com as outras, aos poucos se diferenciavam.
 ###### Testei essa hipótese com aves ainda na inciação científca, além de outras hipóteses, tentando esclarecer sobre a alta diversidade neotropical e seus padrões de distribuição.
