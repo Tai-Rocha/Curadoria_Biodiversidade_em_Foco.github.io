@@ -25,21 +25,17 @@
 
 
 
-#### Tweet 14.4 Biogeografia, história evolutiva 
-###### Concluí graduação em biologia com um TCC sobre a história evolutiva do arapauçu-de-garganta-amarela. Continuei essa ivestigação durante o mestrado, sobre passado desse passarinho, através da filogeografia*. E aí vai um belo registro desse arapaçu feito pelo @ciro_albano
+#4
 
-###### Foto arapaçu-de-lafresnaye (_Xiphorhynchus guttatoides_) Por Ciro Albano https://www.wikiaves.com.br/863441&tm=f&t=s&s=11983&o=mp&p=3#.XzSS-QHZbhY.twitter 
-
-#### Tweet 14.5 Filogeografia 
-###### Filogeografia é  um ramo da biogeografia (buscar entender a distribuição geográfica das espécies no espaço e tempo). Mas a filogeografia faz uso da biologia molecular e suas árvores genealógicas para compreender essa distribuição espaço-temporal. 
-
-###### Gifs
-
-
-#### Tweet 14.6
-###### Essa é a árovre genealógica dos arapaçus que estudei desde a iniação científica e um mapa mostrando como essas populações estão espacialmente distribuidas. Descobri que possivelmente esses arapaçus se dividiram em duas espécies a cerca de 3 milhões de anos atrás!! 
+Aves neotropicais são excelentes p/ testar hipóteses de especiação,o grupo é megadiverso, com ampla distribuição nesta região. Usando como ferramenta a biologia molecular, investiguei o histórico espaço-temporal de um arapaçu,e aqui é sua árvore genealógica e  distribuição espacial.
 
 ![filogeografia](https://user-images.githubusercontent.com/11633554/90083483-09e95a00-dce9-11ea-8e5b-5c739a5e4d31.png)
+
+Descobri que na verdade esses arapaçus eram diferentes. O que se considerava 1 espécie,na verdade são 2 ! Veja o antes e depois, as fotinhos dos arapaçus estão no @wikiaves, essas foram tiradas pelos meus colegas queridos @adrianoomaciel1 e C. Brito
+
+![ante_e_depois](https://user-images.githubusercontent.com/11633554/90298372-750d6a80-de68-11ea-966a-c999a517e42b.png)
+
+
 
 ###### https://www.researchgate.net/publication/272523192_Molecular_phylogeny_and_diversification_of_a_widespread_Neotropical_rainforest_bird_group_The_Buff-throated_Woodcreeper_complex_Xiphorhynchus_guttatussusurrans_Aves_Dendrocolaptidae
 
