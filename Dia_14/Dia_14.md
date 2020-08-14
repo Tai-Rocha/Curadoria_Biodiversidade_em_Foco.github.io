@@ -41,7 +41,7 @@
 
 
 #### Tweet 14.6.1 Amazônia
-###### Isso porquê muitas água rolaram pelos rios amazônicos aos longo dos milhares de anos. Foi mudança no sentido de curso dos rios, expansão da terra firme, fechamento do Istmo do Panamá!A @CarinaHorn mostrou pro mundo pela science esses eventos incríveis, olha só:
+###### Isso porque muitas águas rolaram pelos rios amazônicos aos longo dos milhares de anos. Foi mudança no sentido de curso dos rios, expansão da terra firme, fechamento do Istmo do Panamá!A @CarinaHorn mostrou pro mundo pela science esses eventos incríveis, olha só:
 
 
 
