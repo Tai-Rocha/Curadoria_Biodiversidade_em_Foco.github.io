@@ -11,19 +11,19 @@
    
     - [x] Tempo e espaço (2 tweet)  
     - [x] Biodiversidade nos neotrópicos, as aves neotropicais (1 twees)
-    - [x] Biogeografia, história evolutiva (1 tweets)
-    - [x] Filogeografia (2 tweets, Rocha et al 2015)
-    - [x] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
-    - [x] Conservação: o valor monetário da biodiversidade.
+    - [x] Aves neotropicais (1 tweets)
+    - [ ] Filogeografia (2 tweets, Rocha et al 2015)
+    - [ ] Comentário do histórico geológico da Amazônia (1 tweet, Hoorn et al 2010)
+    - [ ] Conservação: o valor monetário da biodiversidade.
     
     
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
       
-    - [x] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
-    - [x] Passarinhadas goeldianas (1 tweet)
-    - [x] O bico do beija-flor beija a flor  
-    - [x] Outras possibilidades (1 tweet)
-    - [x] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
+    - [ ] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
+    - [ ] Passarinhadas goeldianas (1 tweet)
+    - [ ] O bico do beija-flor beija a flor  
+    - [ ] Outras possibilidades (1 tweet)
+    - [ ] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
     
 16. " Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**)
      
