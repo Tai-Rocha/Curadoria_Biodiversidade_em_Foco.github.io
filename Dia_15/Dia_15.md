@@ -14,7 +14,7 @@
 
 
 #### Tweet 15.3 Beija-flor
-###### Meu melhor registro foi de um beija-flor.... bons tempo!
+###### Meu melhor registro foi de um beija-flor.... bons tempos!
 
 ###### https://www.wikiaves.com.br/1335230
 
