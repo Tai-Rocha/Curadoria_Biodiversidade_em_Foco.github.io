@@ -17,7 +17,7 @@
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
       
     - [x] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
-    - [x] Passarinhada goeldianas (1 tweet)
+    - [x] Passarinhadas goeldianas (1 tweet)
     - [x] O bico do beija-flor beija a flor  
     - [x] Outras possibilidades (1 tweet)
     - [x] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
@@ -31,23 +31,22 @@
     - [ ] speciesLink (1 tweet)
     - [ ] JABOT (1 tweet)
     - [ ] Outras legais (3 tweet)
-    - [ ] Ultilidade e importâcia dessas bases (1 tweet) 
+    - [ ] Ultilidade e importância dessas bases (1 tweet) 
     
-17. "Pereira afrima que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espassa cortina de névoa (...) Marcava trinta e oito graus"  (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
+17. "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus"  (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
       
     - [ ] Wordclim (1 tweet) 
     - [ ] ecoClimate (1 tweet)
     - [ ] Paleoclim  
     - [ ] Chelsa e outras ? (3 tweet)
     - [ ] MapBiomas (1 tweet)
-    - [ ] Ultilidade e importâcia dessas bases (1 tweet)    
+    - [ ] Ultilidade e importância dessas bases (1 tweet)    
 
 18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
       
     - [ ] Dado,Informação,Conhecimento
     - [ ] Usando os bancos de dados
-    
-    
+  
     - [ ] Modelos de Nichos e SDMS   
     - [ ] Trabalho da Science história evolutiva  (1 tweet)
     - [ ] Trabalho Ecography mudanças climátcas e resgate evoltuivo      
@@ -58,7 +57,7 @@
     - [x] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
     - [x] modleR pckg
     - [x] modleR integrantes
-    - [x] Simples assim (Dados georreferencias + dados ambinetais)
+    - [x] Simples assim (dados georreferencias + dados ambinetais)
     - [x] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
       
 
