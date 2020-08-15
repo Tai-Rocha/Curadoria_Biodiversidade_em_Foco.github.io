@@ -7,28 +7,14 @@
 ![301390_454077204644747_1535154471_n](https://user-images.githubusercontent.com/11633554/90300525-3203c500-de71-11ea-8a17-2ed8b9fb4892.jpg)
 
 
-#### Tweet 15.2 Bons Tempos de passarinhada
-###### Foi durante o doutorado no @museugoeldi que fiquei viciada em cliques e passarinhadas! E essa era a gelerinha que acordava 4 da matina pra passarinhar pra postar foto no wikiaves :laughing: :laughing: :laughing:  @adrianomaciel @leomoura @lucasaraujo
+# 2
+###### Podemos conhecer nossas área protegidas pelo #CRSMaps, desenvolvido por um time multidisciplinar de desenvolvedores de software, gerentes de dados e pesquisadores no  Centro de Sensoriamento Remoto da Universidade Federal de Minas Gerais – CSR/UFMG .
+https://maps.csr.ufmg.br
 
-![passarinhada_team](https://user-images.githubusercontent.com/11633554/90166821-2b8e2400-dd71-11ea-9e2a-afda7b5389e0.png)
-
-
-#### Tweet 15.3 Beija-flor
-###### Meu melhor registro foi de um beija-flor.... bons tempos!
-
-###### https://www.wikiaves.com.br/1335230
+![CSR_MAPS](https://user-images.githubusercontent.com/11633554/90322781-cf70fe80-df2e-11ea-9546-4a83d1b17cfe.png)
 
 
-#### Tweet 15.4 Outras possibilidades para analisar a biodiversidade
+# 2.1 
+###### Faço uso de algumas informações do #CRSMaps  nas minhas análises da biodiversidade. Vejam que existem outros dados e informações interessantes disponíveis 
 
-###### Foi também durante o doutorado no @museugoeldi que conheci novas ferramentas e métodos de analisar a biodiversidade, além da molecular. Conhecia superficialmente programas como @arcGis, @qgis, @divagis e com pouca habilidade nessas interfaces. #SIG #qgis
-
-
-###### Enquente ArcGis x Qgis
-
-#### Tweet 15.5 O Antes e o depois
-
-##### O mais legal de conhecer melhor esses programas foi começar a explorar bases de dados para usar nessas interfaces. Comecei buscando mapas de ocorrência das espécies de aves que eu estava estudando e logo estava no site da @IUCNRedList baixando o shapefiles das espécies. Aproveita pra conhecer também!! #maps #shapes
-
-###### Gifs maps shapes
 
