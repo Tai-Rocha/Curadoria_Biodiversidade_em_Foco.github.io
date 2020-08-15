@@ -1,10 +1,10 @@
 ###### Dia 15: "Todos os nossos ontens" (Ginzburg, N. Todos os nossos ontem 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
 
 
-#### Tweet 15.1 Flona de Caxiuanã... 10 anos se passaram
-###### Melhor campo amazônico da vida... eu, com as madeixas de fogo, tal qual uma maria-leque  :laughing:
+# 1 
+###### "Todos os nossos ontem”... Começo assim pois há exatos 10 anos eu estava no melhor trabalho de campo amazônico que já vivi. A flona de Caxiuanão no Pará. Uma de nossas unidades de conservação (UC)
 
-![Caxiaunã](https://user-images.githubusercontent.com/11633554/90166910-51b3c400-dd71-11ea-8c8c-0492532440cb.png)
+![301390_454077204644747_1535154471_n](https://user-images.githubusercontent.com/11633554/90300525-3203c500-de71-11ea-8a17-2ed8b9fb4892.jpg)
 
 
 #### Tweet 15.2 Bons Tempos de passarinhada
