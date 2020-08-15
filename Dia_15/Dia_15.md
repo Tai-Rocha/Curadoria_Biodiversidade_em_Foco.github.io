@@ -32,8 +32,3 @@
 
 ###### Gifs maps shapes
 
-#### Tweet 15.6 Antes e depois na IUCN
-##### Após descobrir que o arapaçu dos meus estudos na verdade eram duas espécies, os mapas, shapefiles da área de ocorrência para este grupo, mudaram na IUCN, veja o antes e depois. E também não deixem de ver os incríveis registros fotográficos dos meus colegas @CaioBrito e @AdrianoMaciel 
-
-![ante_e_depois](https://user-images.githubusercontent.com/11633554/90156982-891b7400-dd63-11ea-8f39-4ba63ae4df61.png)
-
