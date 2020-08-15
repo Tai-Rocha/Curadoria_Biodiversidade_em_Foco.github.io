@@ -19,11 +19,9 @@
     
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
       
-    - [ ] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
-    - [ ] Passarinhadas goeldianas (1 tweet)
-    - [ ] O bico do beija-flor beija a flor  
-    - [ ] Outras possibilidades (1 tweet)
-    - [ ] Arapaçu : antes e depois (Rocha et al., 2015) (1 tweet) 
+    - [X] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
+    - [X] CRSMaps
+    
     
 16. " Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**)
      
