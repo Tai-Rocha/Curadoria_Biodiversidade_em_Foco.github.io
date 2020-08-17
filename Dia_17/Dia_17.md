@@ -7,7 +7,7 @@
 ![SiB_Br](https://user-images.githubusercontent.com/11633554/90428168-f6980f00-e099-11ea-88e8-9542fff10d48.png)
 
 
-# 2
+# 2 JABOT JBRJ
 ###### Já o  #JABOT  do @J_Botanico_RJ é sistema de gerenciamento de coleções científicas depositadas em herbários e redes laboratoriais de instituições de pesquisas botânicas e das coleções vivas de jardins botânicos.
 
 ![JABOT_JBRJ](https://user-images.githubusercontent.com/11633554/90442435-0838e100-e0b1-11ea-81ac-33e95675d01c.png)
