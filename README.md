@@ -23,25 +23,14 @@
     - [X] CRSMaps
     
     
-16. " Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**)
+16. "Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**) 
+          
+    - [X] Enquete
      
-     Bases de dados georreferenciados e outros
-      
-    - [ ] @UCN (1 tweet) 
-    - [ ] @IBGE (1 tweet)
-    - [ ] @SisBbr(1 tweet) 
-    - [ ] @GBIF (1 tweet)
-    - [ ] @speciesLink (1 tweet)
-    - [ ] J@ABOT (1 tweet)
-    - [ ] Outras legais (3 tweet)
-    - [ ] Ultilidade e importância dessas bases (1 tweet) 
-    
-17. "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
-      
-      Bases de dados climáticos e outros
-      
-    - [ ] @Wordclim (1 tweet) 
-    - [ ] @ecoClimate (1 tweet)
+17.  " Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**)    
+         
+    - [ ] @SiB_Br ( Sistema de Informação sobre a Biodiversidade Brasileira )
+    - [ ] #JABOT @J_Botanico_RJ
     - [ ] @Paleoclim  
     - [ ] @Chelsa e outras ? (3 tweet)
     - [ ] @MapBiomas (1 tweet)
@@ -66,3 +55,4 @@
     - [ ] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
       
 
+"Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
