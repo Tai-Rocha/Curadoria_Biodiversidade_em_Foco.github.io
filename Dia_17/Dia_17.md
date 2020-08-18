@@ -16,3 +16,10 @@
 ###### Possibilita aos usuários do sistema, a entrada e disponibilização de dados e imagens dos testemunhos, com funcionalidades para a análise e melhora da qualidade dos dados e diversas funções de acompanhamento de produtividade e relatórios.
 
 
+# 3 Tipo de dados
+
+Quando falamos em dados de biodiversidade, é importante distinguir os 3 tipos comumente usados: os dados georreferenciados 📍, dados raster 🗾 (como uma fotos e seus pixels) e dados vetoriais (vamos entender isso melhor logo mais) #biodiversity #data #DataScience 
+
+###### GiF
+
+
