@@ -18,8 +18,12 @@
 
 # 3 Tipo de dados
 
-Quando falamos em dados de biodiversidade, é importante distinguir os 3 tipos comumente usados: os dados georreferenciados 📍, dados raster 🗾 (como uma fotos e seus pixels) e dados vetoriais (vamos entender isso melhor logo mais) #biodiversity #data #DataScience 
+Quando falamos em dados de biodiversidade, é importante distinguir os 2 tipos comumente usados: os dados raster 🗾  (como uma foto e seus pixels) e dados vetoriais 📍 . Vamos entender isso melhor logo mais ! #biodiversity #data #DataScience
 
 ###### GiF
+
+O #CSR_Maps,por exemplo,disponibiliza a maior parte dos dados como rasters,que são imagens, formadas por pixels. Já o @SiB_Br e #JABOT disponibilizam principalmente dados vetoriais, q são representações de vértices definidos por um par de coordenadas, como latitudes e longitudes. 
+
+
 
 
