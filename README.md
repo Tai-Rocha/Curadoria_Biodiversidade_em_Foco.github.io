@@ -23,6 +23,8 @@
       
     - [X] Unidades de conservação
     - [X] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
+    - [X] Passarinhadas Goeldianas
+    - [X] *Lepidothrix iris* , Cabeça-de-prata
     
     
 16. "Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**) 
