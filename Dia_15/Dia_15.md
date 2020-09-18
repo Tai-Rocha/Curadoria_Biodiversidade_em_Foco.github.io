@@ -18,8 +18,14 @@
 ![glaucis_irsitus](https://user-images.githubusercontent.com/11633554/93618523-c5b73c80-f9ad-11ea-9691-f93756a00ade.jpg)
 
 # 4
-###### *Lepidothrix iris*, registrada eno centro de endemismo Belém. A espécie ocorre na região central e leste da Amazônia brasileira, na região que vai de Belém no estado do Pará até o noroeste do estado do Maranhão e ao sul, até o alto rio Xingu.
+###### *Lepidothrix iris*, registrada no centro de endemismo Belém. A espécie ocorre na região central e leste da Amazônia brasileira, na região que vai de Belém no estado do Pará até o noroeste do estado do Maranhão e ao sul, até o alto rio Xingu.
 
 ![Lepidothrix_iris](https://user-images.githubusercontent.com/11633554/93621273-b20dd500-f9b1-11ea-86ea-668066b780f0.jpg)
+
+# 5
+###### Egretta thula, registrada no centro de endemismo Belém. 
+
+![Egretta thula](https://user-images.githubusercontent.com/11633554/93622553-ba670f80-f9b3-11ea-92ce-ca82456928ac.jpg)
+
 
 
