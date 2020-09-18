@@ -11,7 +11,7 @@
 https://www.gbif.org/
 
 ## 1.2 
-###### A iniciativa brasileira speciesLink também dispobiliza dados georreferenciados e algumas ferramentas (como limpeza de dados) para trabalhar com esses dados.
+###### A iniciativa brasileira speciesLink também disponibiliza dados georreferenciados e algumas ferramentas (como limpeza de dados) para trabalhar com esses dados.
 
 ![speciesLink](https://user-images.githubusercontent.com/11633554/93626320-a8886b00-f9b9-11ea-855a-f241338671af.jpg)
 
