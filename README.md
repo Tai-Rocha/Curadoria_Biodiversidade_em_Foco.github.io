@@ -18,6 +18,8 @@
     
     
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
+
+        https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_15/Dia_15.md
       
     - [X] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
     - [X] CRSMaps
