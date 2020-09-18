@@ -2,7 +2,7 @@
 
 
 # 1 
-###### "Todos os nossos ontem”... Começo assim pois há exatos 10 anos eu estava no melhor trabalho de campo amazônico que já vivi. A flona de Caxiuanão no Pará. Uma de nossas unidades de conservação (UC). 
+###### "Todos os nossos ontem”... Começo assim pois há exatos 10 anos eu estava no melhor trabalho de campo amazônico que já vivi. A flona de Caxiuanão no Pará. Uma de nossas unidades de conservação (UC). Além disso, todos os registros e tweetes de hoje são da época em que fazia o doutorado, especialmente o período de 2013-2015, quando mais estive em campo.
 
 ![301390_454077204644747_1535154471_n](https://user-images.githubusercontent.com/11633554/90300525-3203c500-de71-11ea-8a17-2ed8b9fb4892.jpg)
 
