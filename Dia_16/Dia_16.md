@@ -6,6 +6,8 @@
 #### Ferramentas abertas para dados de biodiversidade
 ###### Uma das iniciativas mais conhecidas e bem consolidadas que disponibiliza dados georreferenciados (latitude/longitude) de espécies é o Global Biodiversity Information (GBIF)
 
+![gbif](https://user-images.githubusercontent.com/11633554/93625511-73c7e400-f9b8-11ea-8103-d254516284fc.png)
+
 https://www.gbif.org/
 
 ##### Tweet 16.3 -@Inaturalist
