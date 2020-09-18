@@ -8,14 +8,7 @@
 
 
 # 2
-###### Passarinhadas Goeldianas
+##### Passarinhadas Goeldianas... EM 2014 durante o doutorado Museu Paraense Emílio Goeldi, aconteciam sempre as passarinhadas, de manhã ou depois do almoço (como neste dia em que consegui esses registro) 
+
 ![glaucis_irsitus](https://user-images.githubusercontent.com/11633554/93618523-c5b73c80-f9ad-11ea-9691-f93756a00ade.jpg)
-
-
-![CSR_MAPS](https://user-images.githubusercontent.com/11633554/90322781-cf70fe80-df2e-11ea-9546-4a83d1b17cfe.png)
-
-
-# 2.1 
-###### Faço uso de algumas informações do #CRSMaps  nas minhas análises da biodiversidade. Vejam que existem outros dados e informações interessantes disponíveis 
-
 
