@@ -28,8 +28,15 @@
     
     
 16. "Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**) 
-          
-    - [X] Enquete
+
+     ###### Ferramentas abertas para dados de biodiversidade
+     
+     
+    - [X] Global Biodiversity Information (GBIF)          
+    - [X] speciesLink
+    - [X] Outras bases de dados georreferenciados da biodiverisdade em geral
+    - [X] Bases para grupos específicos
+    - [X] Bases com dados georreferenciados e outras informações importantes das espécies
      
 17.  " Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**)    
          
