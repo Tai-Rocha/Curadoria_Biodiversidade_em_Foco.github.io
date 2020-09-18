@@ -8,8 +8,9 @@
 
 
 # 2
-###### Podemos conhecer nossas área protegidas pelo #CRSMaps, desenvolvido por um time multidisciplinar de desenvolvedores de software, gerentes de dados e pesquisadores no  Centro de Sensoriamento Remoto da Universidade Federal de Minas Gerais – CSR/UFMG .
-https://maps.csr.ufmg.br
+###### Passarinhadas Goeldianas
+![glaucis_irsitus](https://user-images.githubusercontent.com/11633554/93618523-c5b73c80-f9ad-11ea-9691-f93756a00ade.jpg)
+
 
 ![CSR_MAPS](https://user-images.githubusercontent.com/11633554/90322781-cf70fe80-df2e-11ea-9546-4a83d1b17cfe.png)
 
