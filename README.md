@@ -21,8 +21,10 @@
 
     https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_15/Dia_15.md
       
-    - [X] Flona de Caxiuanã... 10 anos se passaram (1 tweet) 
-    - [X] Unidades de conservação
+    - [X] Flona de Caxiuanã... 10 anos se passaram (1 tweet) :green_heart:
+    - [X] Gavião Real :green_heart:
+    - [X] Passarinhadas Goeldianas (Campus de Pesquisa do Museu Paraense Emílio Goeldi) :green_heart:
+    - [X] Registros no centro de endemismo Belém :green_heart:
     
     
 16. "Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**) 
