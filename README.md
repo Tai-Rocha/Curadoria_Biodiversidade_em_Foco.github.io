@@ -37,9 +37,9 @@
      
     - [X] Global Biodiversity Information (GBIF)          
     - [X] speciesLink
-    - [X] Outras bases de dados georreferenciados da biodiverisdade em geral
-    - [X] Bases para grupos específicos
-    - [X] Bases com dados georreferenciados e outras informações importantes das espécies
+    - [ ] Bases para grupos específicos
+    - [ ] Outras bases de dados georreferenciados da biodiverisdade em geral
+    - [ ] Bases com outras informações importantes sobre espécies
      
      
 17.  "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
