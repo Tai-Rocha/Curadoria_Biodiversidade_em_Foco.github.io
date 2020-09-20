@@ -30,6 +30,8 @@
     
 16. "Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**) 
 
+    https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_16/Dia_16.md
+
      ###### Ferramentas abertas para dados de biodiversidade
      
      
