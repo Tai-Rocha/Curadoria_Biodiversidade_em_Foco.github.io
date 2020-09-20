@@ -40,13 +40,16 @@
      
      
 17.  "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
+
+        ###### Bases de dados ambientais abertos 
+        
    
-    - [ ] Wordclim
-    - [ ] ecoClimate
-    - [ ] Paleoclim  
-    - [ ] NASA
-    - [ ] @MapBiomas (1 tweet)
-    - [ ] Ultilidade e importância dessas bases (1 tweet)    
+     - [ ] Wordclim
+     - [ ] ecoClimate
+     - [ ] Paleoclim  
+     - [ ] NASA
+     - [ ] @MapBiomas (1 tweet)
+     - [ ] Ultilidade e importância dessas bases (1 tweet)    
 
 18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
       
