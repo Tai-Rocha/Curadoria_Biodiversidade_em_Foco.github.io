@@ -1,6 +1,7 @@
 ### Curadoria dos dias 14 a 20 de agosto de 2020 para Biodiversidade em Foco @BiodivFoco
 ### Curadora da semana : Tainá Rocha
 #### Tema: ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e tempo. 
+#### GitHub status: in progress
 ##### Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os demais dias trazem trechos ou títtulos de livros editados pelo clube TAG Experiências Literárias. Minha singela homenagem ao zoólogo e compistor Paulo Vanzolini, ao clube TAG e seus associados. Ao final da curadoria, um breve off-topic sobre esses livros :rose:
 
 ###### Obs.: Conteúdos, formatações e edições em construção.
