@@ -40,10 +40,7 @@
      
      
 17.  "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
-
-        ###### Bases de dados ambientais abertos 
-        
-         
+   
     - [ ] Wordclim
     - [ ] ecoClimate
     - [ ] Paleoclim  
