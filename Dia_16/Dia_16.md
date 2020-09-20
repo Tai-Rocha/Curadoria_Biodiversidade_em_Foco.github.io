@@ -18,7 +18,12 @@ https://www.gbif.org/
 http://www.splink.org.br/
 
 
-###### retweet 
+#### Bases de dados georreferenciados de grupos específicos
+
+## 1.3 eBird: os dados do eBird documentam a distribuição, abundância, uso do habitat e tendências das aves por meio de dados de lista de verificação coletados em uma estrutura científica simples. E está disponível em todo o mundo, compreendendo uma rede de parceiros locais, nacionais e internacionais.
+
+
+
 
 
 ##### Tweet 16.4 INDIE
