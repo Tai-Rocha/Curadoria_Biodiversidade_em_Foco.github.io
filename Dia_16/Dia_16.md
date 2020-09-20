@@ -20,7 +20,8 @@ http://www.splink.org.br/
 
 #### Bases de dados georreferenciados de grupos específicos
 
-## 1.3 eBird: os dados do eBird documentam a distribuição, abundância, uso do habitat e tendências das aves por meio de dados de lista de verificação coletados em uma estrutura científica simples. E está disponível em todo o mundo, compreendendo uma rede de parceiros locais, nacionais e internacionais.
+## 1.3 eBird
+###### Os dados do eBird documentam a distribuição, abundância, uso do habitat e tendências das aves por meio de dados de lista de verificação coletados em uma estrutura científica simples. E está disponível em todo o mundo, compreendendo uma rede de parceiros locais, nacionais e internacionais.
 
 ![ebird](https://user-images.githubusercontent.com/11633554/93720988-64d16500-fb63-11ea-928c-27bf41de4899.png)
 
