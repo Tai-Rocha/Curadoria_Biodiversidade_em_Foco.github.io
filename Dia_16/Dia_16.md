@@ -13,7 +13,7 @@ https://www.gbif.org/
 ## 1.2 
 ###### A iniciativa brasileira speciesLink também disponibiliza dados georreferenciados e algumas ferramentas (como limpeza de dados) para trabalhar com esses dados.
 
-![speciesLink](https://user-images.githubusercontent.com/11633554/93626320-a8886b00-f9b9-11ea-855a-f241338671af.jpg)
+<img src="https://user-images.githubusercontent.com/11633554/93626320-a8886b00-f9b9-11ea-855a-f241338671af.jpg" width="250">
 
 http://www.splink.org.br/
 
@@ -26,7 +26,7 @@ http://www.splink.org.br/
 ## 1.3 eBird
 ###### Os dados do eBird documentam a distribuição, abundância, uso do habitat e tendências das aves por meio de dados de lista de verificação coletados em uma estrutura científica simples. E está disponível em todo o mundo, compreendendo uma rede de parceiros locais, nacionais e internacionais.
 
-![ebird](https://user-images.githubusercontent.com/11633554/93720988-64d16500-fb63-11ea-928c-27bf41de4899.png)
+<img src="https://user-images.githubusercontent.com/11633554/93720988-64d16500-fb63-11ea-928c-27bf41de4899.png" width="250">
 
 https://ebird.org/home
 
@@ -34,7 +34,7 @@ https://ebird.org/home
 ## 1.4 
 ###### É um sistema de gerenciamento de coleções científicas depositadas em herbários e redes laboratoriais de instituições de pesquisas botânicas e das coleções vivas de jardins botânicos.
 
-![JABOT](https://user-images.githubusercontent.com/11633554/94026246-caa23480-fd8f-11ea-83c5-aa9af2582341.png)
+<img src="https://user-images.githubusercontent.com/11633554/94026246-caa23480-fd8f-11ea-83c5-aa9af2582341.png" width="250">
 
 http://rb.jbrj.gov.br/v2/consulta.php
 
