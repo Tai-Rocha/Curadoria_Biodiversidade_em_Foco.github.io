@@ -63,8 +63,7 @@ https://inde.gov.br/
 https://www.iucn.org/
 
 
-
-![IUCN_Red_List](https://user-images.githubusercontent.com/11633554/94031586-671b0580-fd95-11ea-984b-e1367892b5c3.png)
+<img src="https://user-images.githubusercontent.com/11633554/94031586-671b0580-fd95-11ea-984b-e1367892b5c3.png" width="90">
 
 https://www.iucnredlist.org/
 
