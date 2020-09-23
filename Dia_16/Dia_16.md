@@ -51,19 +51,19 @@ https://www.sibbr.gov.br/
 
 ## 2.2 Infraestrutura Nacional de Dados Espaciais (INDE). O PORTAL BRASILEIRO DE DADOS GEOESPACIAIS - SIG BRASIL.  A INDE  cataloga, integra e harmoniza dados geoespaciais existentes nas instituições do governo brasileiro
 
-![INDE Logo](https://user-images.githubusercontent.com/11633554/94030649-72b9fc80-fd94-11ea-9709-8c22af025841.png)
+<img src="https://user-images.githubusercontent.com/11633554/94030649-72b9fc80-fd94-11ea-9709-8c22af025841.png" width="150">
 
 https://inde.gov.br/
 
 
 ## 2.3 International Union for Conservation of Nature (IUCN). Organização internacional que trabalha na área de conservação da natureza e uso sustentável dos recursos naturais. Ele está envolvido na coleta e análise de dados, pesquisa, projetos de campo, educação. Forcenece informação sobre o grau de ameaça das espécies pelo IUCN RED List , shapefiles com área de ocorrência das espécies. 
 
-![IUCN](https://user-images.githubusercontent.com/11633554/94031515-51a5db80-fd95-11ea-96e1-93dd7d369151.png)
+<img src="https://user-images.githubusercontent.com/11633554/94031515-51a5db80-fd95-11ea-96e1-93dd7d369151.png" width="150">
 
 https://www.iucn.org/
 
 
-<img src="https://user-images.githubusercontent.com/11633554/94031586-671b0580-fd95-11ea-984b-e1367892b5c3.png" width="90">
+<img src="https://user-images.githubusercontent.com/11633554/94031586-671b0580-fd95-11ea-984b-e1367892b5c3.png" width="150">
 
 https://www.iucnredlist.org/
 
