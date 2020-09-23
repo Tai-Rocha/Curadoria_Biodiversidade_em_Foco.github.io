@@ -1,6 +1,7 @@
 ### Curadoria dos dias 14 a 20 de agosto de 2020 para Biodiversidade em Foco @BiodivFoco
 ### Curadora da semana : Tainá Rocha
 #### Tema: ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e tempo. 
+#### GitHub status: in progress
 ##### Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os demais dias trazem trechos ou títtulos de livros editados pelo clube TAG Experiências Literárias. Minha singela homenagem ao zoólogo e compistor Paulo Vanzolini, ao clube TAG e seus associados. Ao final da curadoria, um breve off-topic sobre esses livros :rose:
 
 ###### Obs.: Conteúdos, formatações e edições em construção.
@@ -29,23 +30,29 @@
     
 16. "Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**) 
 
+    https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_16/Dia_16.md
+
      ###### Ferramentas abertas para dados de biodiversidade
      
      
     - [X] Global Biodiversity Information (GBIF)          
     - [X] speciesLink
-    - [X] Outras bases de dados georreferenciados da biodiverisdade em geral
-    - [X] Bases para grupos específicos
-    - [X] Bases com dados georreferenciados e outras informações importantes das espécies
+    - [ ] Bases para grupos específicos
+    - [ ] Outras bases de dados georreferenciados da biodiverisdade em geral
+    - [ ] Bases com outras informações importantes sobre espécies
      
-17.  " Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**)    
-         
-    - [ ] @SiB_Br ( Sistema de Informação sobre a Biodiversidade Brasileira )
-    - [ ] #JABOT @J_Botanico_RJ
-    - [ ] @Paleoclim  
-    - [ ] @Chelsa e outras ? (3 tweet)
-    - [ ] @MapBiomas (1 tweet)
-    - [ ] Ultilidade e importância dessas bases (1 tweet)    
+     
+17.  "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceano chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
+
+        ###### Bases de dados ambientais abertos 
+        
+   
+     - [ ] Wordclim
+     - [ ] ecoClimate
+     - [ ] Paleoclim  
+     - [ ] NASA
+     - [ ] @MapBiomas (1 tweet)
+     - [ ] Ultilidade e importância dessas bases (1 tweet)    
 
 18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
       
@@ -66,4 +73,3 @@
     - [ ] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
       
 
-"Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceaco chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
