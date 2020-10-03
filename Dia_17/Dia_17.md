@@ -14,7 +14,7 @@ https://www.wcrp-climate.org/
 
 ## 1.1 
 
-###### Wordclim é uma das bases de dados climáticos mais utilizadas, os dados estão disponíveis em diferentes resoluçãoes desde 1 km ate 20 km e para diferentes cortes termporais (presente, passado e futuro), diferentes modelos de circulação atmoférica e difentes cenários de emissões de gases do efeito estufa (RCPs).
+###### Worldclim é uma das bases de dados climáticos mais utilizadas, os dados estão disponíveis em diferentes resoluçãoes desde 1 km ate 20 km e para diferentes cortes termporais (presente, passado e futuro), diferentes modelos de circulação atmoférica e difentes cenários de emissões de gases do efeito estufa (RCPs).
 
 <img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/wordlclim.png" width="550">
 
