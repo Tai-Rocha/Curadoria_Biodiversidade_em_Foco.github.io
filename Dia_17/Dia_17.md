@@ -6,7 +6,7 @@
 
 ##### Dados climáticos são uma das categorias de dados ambientais amplamente utlizadas. O Programa Mundial de Pesquisa do Clima (WCRP) lidera a abordagem de questões científicas de fronteira relacionadas ao sistema climático acoplado.
 
-<img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/wordlclim.png" width="250">
+<img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/WCRP.png" width="250">
 
 https://www.wcrp-climate.org/
 
