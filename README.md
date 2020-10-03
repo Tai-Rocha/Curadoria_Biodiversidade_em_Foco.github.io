@@ -44,7 +44,10 @@
      
 17.  "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceano chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
 
-        ###### Bases de dados ambientais abertos 
+      https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/Dia_17.md
+    
+
+       ###### Bases de dados ambientais abertos 
         
    
      - [X] World Climate Research Programme
