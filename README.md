@@ -47,12 +47,14 @@
         ###### Bases de dados ambientais abertos 
         
    
-     - [ ] Wordclim
+     - [X] World Climate Research Programme
+     - [X] Worldclim
      - [ ] ecoClimate
      - [ ] Paleoclim  
      - [ ] NASA
-     - [ ] @MapBiomas (1 tweet)
-     - [ ] Ultilidade e importância dessas bases (1 tweet)    
+     - [ ] @MapBiomas
+     - [ ] CSR maps
+     - [ ] Ultilidade e importância dessas bases   
 
 18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
       
