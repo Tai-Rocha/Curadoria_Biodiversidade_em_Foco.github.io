@@ -1,8 +1,18 @@
-### Dia 17: "Sul da fronteira, oeste do sol - disse ela" (Murakami, H. 1992 Sul da fronteira, oeste do sol)
+### Dia 17: "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceano chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
 
-# 1 - SiB_Br
+##### A seguir, algumas bases da dados ambientais, isto é: dados de clima, topográficos, de uso e corbetura do solo etc. 
 
-###### O @SiB_Br é a plataforma online  que integra dados sobre a biodiversidade e os ecossistemas,  provenientes de fontes diversas do Brasil e do exterior. A plataforma também fornece ferramentas p/ análises exploratórias espaciais. Vejam áreas prioritárias p/ conservação na Caatinga
+# 1
+
+##### Dados climáticos são uma das categorias de dados ambientais amplamente utlizadas. O Programa Mundial de Pesquisa do Clima (WCRP) lidera a abordagem de questões científicas de fronteira relacionadas ao sistema climático acoplado.
+
+<img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/wordlclim.png" width="250">
+
+https://www.wcrp-climate.org/
+
+## 1.1 
+
+###### Wordclim
 
 ![SiB_Br](https://user-images.githubusercontent.com/11633554/90428168-f6980f00-e099-11ea-88e8-9542fff10d48.png)
 
