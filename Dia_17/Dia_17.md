@@ -27,7 +27,10 @@ https://www.worldclim.org/
 
 
 ## 1.3 
-###### ecoClimate
+###### ecoClimate é projeto que disponibiliza os dados climáticas dos projetos PMIP3 - CMIP5 para microbiologistas e biogeógrafos
+
+<img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/ecoClimate.png" width="550">
+
 
 
 ## 1.4 
