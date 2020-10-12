@@ -22,7 +22,9 @@ https://www.worldclim.org/
 
 
 ## 1.2
-###### Chelsa 
+###### Chelsa climate fornece dados climáticos de alta resolução (30 segundos de arco) para as áreas da superfície da terra atualmente hospedado pelo Instituto Federal Suíço para Pesquisa de Floresta, Neve e Paisagem WSL.
+
+<img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/Chelsa_climate.gif" width="550">
 
 
 
