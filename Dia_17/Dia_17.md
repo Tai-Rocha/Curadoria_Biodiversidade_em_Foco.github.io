@@ -37,7 +37,11 @@ https://www.worldclim.org/
 
 ## 1.4 
 
-###### Paleoclim 📍
+###### Paleoclim é base dados dados para vaŕios cortes do passado (Plioceno- Pleistoceno) em alta resolução para uso em modelagem biológica e GIS.
+
+<img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/PaleoClim4sm.jpg" width="550">
+
+http://www.paleoclim.org/
 
 
 # 2 
