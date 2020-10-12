@@ -52,8 +52,8 @@
    
      - [X] World Climate Research Programme
      - [X] Worldclim
-     - [ ] ecoClimate
-     - [ ] Paleoclim  
+     - [X] ecoClimate
+     - [X] Paleoclim  
      - [ ] NASA
      - [ ] @MapBiomas
      - [ ] CSR maps
