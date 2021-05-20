@@ -14,7 +14,7 @@ https://www.wcrp-climate.org/
 
 ## 1.1 
 
-###### Worldclim é uma das bases de dados climáticos mais utilizadas, os dados estão disponíveis em diferentes resoluçãoes desde 1 km ate 20 km e para diferentes cortes termporais (presente, passado e futuro), diferentes modelos de circulação atmoférica e difentes cenários de emissões de gases do efeito estufa (RCPs).
+###### [Worldclim](https://www.worldclim.org/) é uma das bases de dados climáticos mais utilizadas, os dados estão disponíveis em diferentes resoluçãoes desde 1 km ate 20 km e para diferentes cortes termporais (presente, passado e futuro), diferentes modelos de circulação atmoférica e difentes cenários de emissões de gases do efeito estufa (RCPs).
 
 <img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/wordlclim.png" width="550">
 
@@ -22,29 +22,30 @@ https://www.worldclim.org/
 
 
 ## 1.2
-###### Chelsa climate fornece dados climáticos de alta resolução (30 segundos de arco) para as áreas da superfície da terra atualmente hospedado pelo Instituto Federal Suíço para Pesquisa de Floresta, Neve e Paisagem WSL.
-
-<img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/Chelsa_climate.gif" width="550">
-
-
-
-## 1.3 
-###### ecoClimate é projeto que disponibiliza os dados climáticas dos projetos PMIP3 - CMIP5 para microbiologistas e biogeógrafos
+###### [ecoClimate](https://www.ecoclimate.org/) é projeto que disponibiliza os dados climáticas dos projetos PMIP3 - CMIP5 para microbiologistas e biogeógrafos
 
 <img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/ecoClimate.png" width="550">
 
+## 1.3 
+###### [Chelsa climate](https://chelsa-climate.org/) fornece dados climáticos de alta resolução (30 segundos de arco) para as áreas da superfície da terra atualmente hospedado pelo Instituto Federal Suíço para Pesquisa de Floresta, Neve e Paisagem WSL.
 
+<img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/Chelsa_climate.gif" width="550">
 
 ## 1.4 
 
-###### Paleoclim é base dados dados para vaŕios cortes do passado (Plioceno- Pleistoceno) em alta resolução para uso em modelagem biológica e GIS.
+###### [Paleoclim](http://www.paleoclim.org/) é base dados dados para vaŕios cortes do passado (Plioceno- Pleistoceno) em alta resolução para uso em modelagem biológica e GIS.
 
 <img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/PaleoClim4sm.jpg" width="550">
 
-http://www.paleoclim.org/
 
 
-# 2 
+#2 [NASA Earth Data](https://search.earthdata.nasa.gov/search) 
+
+<img src="https://i.imgur.com/Dkm28PA.png" width="550">
+
+# [Land-use Harmonization Project](https://luh.umd.edu/index.shtml)
+
+# [Mapbiomas Brasil](https://mapbiomas.org/en)
 ##### Dados ambientais topográficos
 
 
