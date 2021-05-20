@@ -73,5 +73,5 @@ Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os de
     - [ ] modleR pckg
     - [ ] modleR integrantes
     - [ ] Simples assim (dados georreferenciados + dados ambientais)
-    - [ ] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
+    - [ ] Nem tão simples assim (figura do fluxo de trabalho do modleR)
       
