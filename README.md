@@ -55,9 +55,10 @@
      - [X] ecoClimate
      - [X] Paleoclim  
      - [x] NASA
-     - [ ] @MapBiomas
-     - [ ] CSR maps
-     - [ ] Ultilidade e importância dessas bases   
+     - [x] Land-use Harmonization Project
+     - [x] @MapBiomas
+     - [x] Digital Observatory for Protected Areas
+     - [x] Ultilidade e importância dessas bases   
 
 18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
       
