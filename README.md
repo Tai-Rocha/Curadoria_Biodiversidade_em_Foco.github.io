@@ -1,21 +1,22 @@
 ### Curadoria dos dias 14 a 20 de agosto de 2020 para Biodiversidade em Foco @BiodivFoco
 ### Curadora da semana : Tainá Rocha
 #### Tema: ferramentas e bancos de dados abertos para análises da biodiversidade no espaço e tempo. 
-#### GitHub status: in progress
+#### Status: in progress
 ##### Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os demais dias trazem trechos ou títtulos de livros editados pelo clube TAG Experiências Literárias. Minha singela homenagem ao zoólogo e compistor Paulo Vanzolini, ao clube TAG e seus associados. Ao final da curadoria, um breve off-topic sobre esses livros :rose:
 
 ###### Obs.: Conteúdos, formatações e edições em construção.
 
-14. "Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzollini) :
-    
-       https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_14/Dia_14.md
-   
-    - [x] Vanzolini: Tempo e espaço  
-    - [x] Os refúgios
-    - [x] Um teste de hipótese
-    - [x] Aves neotropicais modelos (Rocha et al., 2015)
-    - [x] O histórico é importante 
-    - [x] Conservação: o valor monetário da biodiversidade.
+[Dia 14](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_14/Dia_14.md) 
+<b />
+Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzollini)
+<b />
+<b />
+    :white_check_mark:	 Vanzolini: Tempo e espaço <b /> 
+    :white_check_mark:	 Os refúgios <b />
+    :white_check_mark:	 Um teste de hipótese<b />
+    :white_check_mark:	 Aves neotropicais modelos (Rocha et al., 2015)<b />
+    :white_check_mark:	 O histórico é importante <b />
+    :white_check_mark:	 Conservação: o valor monetário da biodiversidade.
     
     
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
