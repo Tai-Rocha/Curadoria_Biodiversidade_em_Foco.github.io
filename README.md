@@ -42,7 +42,7 @@
     - [X] Bases com outras informações importantes sobre espécies
      
      
-17.  ["Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceano chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus",Tabucchi A. 1994](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/Dia_17.md)
+17.  ["Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceano chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus",Tabucchi A. 1994](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco.github.io/blob/master/Dia_17/Dia_17.md)
 
       
     
