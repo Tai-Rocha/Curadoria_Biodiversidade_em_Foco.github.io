@@ -60,17 +60,16 @@ Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os de
 - ["Mil anos no mar, mil anos nas montanhas", Leky 2017](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco.github.io/tree/master/Dia_18). 
       
     - [ ] Dado,informação,conhecimento
-    - [ ] Usando os bancos de dados
-  
-    - [ ] Modelos de nicho ecológico (MNEs) e modelos de distribuição de espécies (MDSs) (1 tweet)  
-    - [ ] Silva et al 2019, o passado (1 tweet)
-    - [ ] Diniz‐Filho et al 2019, o futuro (tweet)     
+    - [ ] Usando os bancos de dados  
+    - [ ] Modelos de nicho ecológico (ENMs)/ modelos de distribuição de espécies (SDMs) 
+    - [ ] Silva et al 2019, o passado 
+    - [ ] Diniz‐Filho et al 2019, o futuro    
 
 ### Dia 19
 - ["Ambos habían sido modernizados y no tenían nada de tenebrosos", Márquez,G 1992](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco.github.io/tree/master/Dia_19)
       
-    - [ ] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
-    - [ ] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
+    - [ ] Primeiras interfaces gráficas para gerar MNEs 
+    - [ ] Ciência aberta/Linguagem R/ Ecologia 
     - [ ] modleR pckg
     - [ ] modleR integrantes
     - [ ] Simples assim (dados georreferenciados + dados ambientais)
