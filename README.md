@@ -47,14 +47,14 @@
       https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/Dia_17.md
     
 
-       ###### Bases de dados ambientais abertos 
+       ###### Bases de dados abertos ambientais  
         
    
      - [X] World Climate Research Programme
      - [X] Worldclim
      - [X] ecoClimate
      - [X] Paleoclim  
-     - [ ] NASA
+     - [x] NASA
      - [ ] @MapBiomas
      - [ ] CSR maps
      - [ ] Ultilidade e importância dessas bases   
