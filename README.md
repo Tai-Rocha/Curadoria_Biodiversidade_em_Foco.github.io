@@ -6,9 +6,9 @@
 
 ###### Obs.: Conteúdos, formatações e edições em construção.
 
-14. "Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzollini) :
+14. ["Para viver no teu tempo é que eu faço viagens no espaço" Vanzolini]( https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_14/Dia_14.md) :
     
-       https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_14/Dia_14.md
+      
    
     - [x] Vanzolini: Tempo e espaço  
     - [x] Os refúgios
@@ -18,9 +18,9 @@
     - [x] Conservação: o valor monetário da biodiversidade.
     
     
-15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
+15. ["Todos os nossos ontens", Ginzburg N. 1948](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_15/Dia_15.md)
 
-    https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_15/Dia_15.md
+    
       
     - [X] Flona de Caxiuanã... 10 anos se passaram (1 tweet) :green_heart:
     - [X] Gavião Real :green_heart:
@@ -28,9 +28,9 @@
     - [X] Registros no centro de endemismo Belém :green_heart:
     
     
-16. "Sul da fronteira, oeste do sol - disse ela"  (Murakami, H. 1992 **Sul da fronteira, oeste do sol**) 
+16. ["Sul da fronteira, oeste do sol - disse ela",Murakami H. 1992](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_16/Dia_16.md) 
 
-    https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_16/Dia_16.md
+    
 
      ###### Ferramentas abertas para dados de biodiversidade
      
@@ -42,9 +42,9 @@
     - [X] Bases com outras informações importantes sobre espécies
      
      
-17.  "Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceano chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus" (Tabucchi, A. 1994. **Afirma Pereira**. p.17)
+17.  ["Pereira afirma que naquela tarde o tempo virou. De repente, a brisa atlântica parou, e do oceano chegou uma espessa cortina de névoa (...) Marcava trinta e oito graus",Tabucchi A. 1994](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/Dia_17.md)
 
-      https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/Dia_17.md
+      
     
 
        ###### Bases de dados abertos ambientais  
@@ -60,7 +60,7 @@
      - [x] Digital Observatory for Protected Areas
      - [x] Ultilidade e importância dessas bases   
 
-18. "Mil anos no mar, mil anos nas montanhas" (Leky, 2017, p.299. **O dia em que Selma sonhou com um Ocapi**). 
+18. ["Mil anos no mar, mil anos nas montanhas", Leky 2017](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco.github.io/tree/master/Dia_18). 
       
     - [ ] Dado,informação,conhecimento
     - [ ] Usando os bancos de dados
@@ -69,7 +69,7 @@
     - [ ] Silva et al 2019, o passado (1 tweet)
     - [ ] Diniz‐Filho et al 2019, o futuro (tweet)     
 
-19. "Ambos habían sido modernizados y no tenían nada de tenebrosos" (Márquez,Gabriel. 'Espantos de agosto'. **Doce cuentos peregrinos** 1992)
+19. ["Ambos habían sido modernizados y no tenían nada de tenebrosos", Márquez,G 1992](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco.github.io/tree/master/Dia_19)
       
     - [ ] Primeiras interfaces gráficas para gerar MNEs (1 tweet) 
     - [ ] Ciência aberta/Linguagem R/ Ecologia (2 tweets)
@@ -78,4 +78,3 @@
     - [ ] Simples assim (dados georreferenciados + dados ambientais)
     - [ ] Nem tão simples assim (figura do fluxo de trabalho do modleR) (2 tweets)
       
-
