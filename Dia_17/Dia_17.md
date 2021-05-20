@@ -38,10 +38,14 @@
 # 3
 [Land-use Harmonization Project](https://luh.umd.edu/index.shtml), o objetivo do projeto Harmonização do Uso da Terra (LUH2) é preparar um conjunto harmonizado de cenários de uso da terra que conecte suavemente as reconstruções históricas do uso da terra com as projeções futuras no formato exigido para ESMs.
 
+<img src="https://i.imgur.com/NBrponR.jpg" width="350">
+
 # 4
 [Mapbiomas Brasil](https://mapbiomas.org/en), coleção de dados com 35 anos (1985 a 2019) dos mapas anuais de cobertura e uso da terra do Brasil em escala de 30 m com melhorias na acurácia nos biomas e novas classes de agricultura.
+
+<img src="https://i.imgur.com/yvTOK8u.jpg" width="350">
 
 # 5
 [Digital Observatory for Protected Areas](https://dopa.jrc.ec.europa.eu/en) é um conjunto de serviços e aplicativos da web que podem ser usados principalmente para avaliar, monitorar, relatar e possivelmente prever o estado e a pressão sobre áreas protegidas em várias escalas.)
 
-
+<img src="https://i.imgur.com/e1GR7uA.png" width="350">
