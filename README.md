@@ -30,10 +30,7 @@ Exceto dia 14, intitulado com um trecho de canção do zoólogo Vanzolini, os de
 ### Dia 16    
 - ["Sul da fronteira, oeste do sol - disse ela",Murakami H. 1992](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_16/Dia_16.md) 
 
-    
-
-     ###### Ferramentas abertas para dados de biodiversidade
-     
+      
      
     - [X] Global Biodiversity Information (GBIF)          
     - [X] speciesLink
