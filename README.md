@@ -6,17 +6,16 @@
 
 ###### Obs.: Conteúdos, formatações e edições em construção.
 
-[Dia 14](https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_14/Dia_14.md) 
-<b />
-Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzollini)
-<b />
-<b />
-    :white_check_mark:	 Vanzolini: Tempo e espaço <b /> 
-    :white_check_mark:	 Os refúgios <b />
-    :white_check_mark:	 Um teste de hipótese<b />
-    :white_check_mark:	 Aves neotropicais modelos (Rocha et al., 2015)<b />
-    :white_check_mark:	 O histórico é importante <b />
-    :white_check_mark:	 Conservação: o valor monetário da biodiversidade.
+14. "Para viver no teu tempo é que eu faço viagens no espaço" (canção tempo e espaço, de Paulo Vanzollini) :
+    
+       https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_14/Dia_14.md
+   
+    - [x] Vanzolini: Tempo e espaço  
+    - [x] Os refúgios
+    - [x] Um teste de hipótese
+    - [x] Aves neotropicais modelos (Rocha et al., 2015)
+    - [x] O histórico é importante 
+    - [x] Conservação: o valor monetário da biodiversidade.
     
     
 15. "Todos os nossos ontens"  (Ginzburg, N. **Todos os nossos ontem** 1952. Tradução de Maria Bethânia Amoroso. São Paulo: SCHWARCZ S.A)
