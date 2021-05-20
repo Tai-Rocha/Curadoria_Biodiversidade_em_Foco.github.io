@@ -14,8 +14,6 @@
 
 <img src="https://github.com/Tai-Rocha/Curadoria_Biodiversidade_em_Foco/blob/master/Dia_17/images/wordlclim.png" width="550">
 
-https://www.worldclim.org/
-
 
 ## 1.2
 ###### [ecoClimate](https://www.ecoclimate.org/) é projeto que disponibiliza os dados climáticas dos projetos PMIP3 - CMIP5 para microbiologistas e biogeógrafos
